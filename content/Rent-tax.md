@@ -352,4 +352,3 @@
 2. Fill in the details and Click on Process Print.
 
 ![Image](./images/rent-tax/lodgments-vs-payments-report.png)
-
