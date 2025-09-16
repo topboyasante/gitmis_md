@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Rent Tax
+      link: /Rent-tax
 
 features:
   - title: Feature A
