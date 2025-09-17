@@ -6,7 +6,7 @@
 
  **To reset your account:**
   2. Click on Reset Password and follow the prompt to create a new one.
-   ![image](/content/images/CSOIMGS/S1.png)
+   ![image](/content/images/cso/S1.png)
   
 ---
 
@@ -19,7 +19,7 @@
 2. Click **Return to Login Page**. 
 
 After resetting your password, return to the GITMIS 3 Login page and log in with your new password.
- ![image](/content/images/CSOIMGS/S2.png)
+ ![image](/content/images/cso/S2.png)
 
 ---
 
@@ -28,7 +28,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
 1. Click on **Clean a Taxpayer**.
 2. Enter the TIN number of the Taxpayer.The taxpayer’s name will appear on the right.
 3. Click on **Process Print** to print the Taxpayer information.
-   ![image](/content/images/CSOIMGS/S3.png)
+   ![image](/content/images/cso/S3.png)
 
 ---
 
@@ -38,10 +38,10 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   2. Select **Register New TIN**.
   3. Click on **Organization TIN**.
   4. Fill the form and click **Save**.
-![image](/content/images/CSOIMGS/S4.png)   
+![image](/content/images/cso/S4.png)   
   5. **Note:** If you don’t upload the document, you can’t save.
   
-![image](/content/images/CSOIMGS/S5.png)
+![image](/content/images/cso/S5.png)
 
 ---
 
@@ -50,7 +50,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click **Pending Registration List** to view all pending requests.
   2. The pending requests with the status and count is displayed.
   3. A further breakdown of the pending list according to months, years, and counts is made accessible upon clicking on a row. 
-![image](/content/images/CSOIMGS/S6.png)
+![image](/content/images/cso/S6.png)
   
 ---
  ## Registration
@@ -59,7 +59,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   2. Fill in the feilds in the Search Parameters.
   3. Click on the **Record Search**.
   4. The Search results are displayed.
-![image](/content/images/CSOIMGS/S7.png) 
+![image](/content/images/cso/S7.png) 
 
 ---
 
@@ -68,7 +68,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Search Generated Tin Registration**.
   2. Fill in the fields in the ** Search Parameters**.
   3. The search results will be displayed.
-![image](/content/images/CSOIMGS/S8.png)
+![image](/content/images/cso/S8.png)
 
 ---
 
@@ -76,7 +76,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View New TIN Registrations:**
 1. Click **New Registration Listing**.
 2. Select the necessary details. They results will show below.
-![image](/content/images/CSOIMGS/S9.png)
+![image](/content/images/cso/S9.png)
 
 ---
 
@@ -85,7 +85,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Print TIN Certificate**.
   2. Enter TIN or Ghana Card.
   3. Click on **Process Print** to view certificate.
-![image](/content/images/CSOIMGS/S10.png)
+![image](/content/images/cso/S10.png)
 
 ---
 
@@ -94,7 +94,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Register New Tax Type**.
   2. Fill in the details and select the dropdowns.
   3. Click on **Save**.
-![image](/content/images/CSOIMGS/S11.png)
+![image](/content/images/cso/S11.png)
 
 ---
 
@@ -102,7 +102,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To view the pending list:**
   1. Click on **Pending List**.The list is displayed on the screen.
   2. Click on any row to view information about the organization..
-![image](/content/images/CSOIMGS/S12.png)
+![image](/content/images/cso/S12.png)
 
 ---
 
@@ -111,7 +111,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Tax Type**.
   2. Enter TIN/Ghana card number.
   3. Click **Search Tax Type**.
-![image](/content/images/CSOIMGS/S13.png)
+![image](/content/images/cso/S13.png)
 
 ---
 ## Taxpayer Management
@@ -119,7 +119,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1.  Click on **Update**.
   2. Enter the TIN number.
   3. Click **Process Print**.
-![image](/content/images/CSOIMGS/S14.png)
+![image](/content/images/cso/S14.png)
 
 ---
 
@@ -128,7 +128,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Update**.
   2. Enter the Tin number.
   3. Click **Process Print**.
-![image](/content/images/CSOIMGS/S15.png)
+![image](/content/images/cso/S15.png)
 
 ---
 
@@ -137,7 +137,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
   1. Click on **Complete Taxpayer Registration**.
   2. Enter the TIN or Ghana card number.
   3. Click **Process Print**. 
-![image](/content/images/CSOIMGS/S16.png)
+![image](/content/images/cso/S16.png)
 
 ---
 
@@ -145,13 +145,13 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
 **To view the pending list:**
  1. Click on Pending List. The list is displayed on the screen. 
  2. Click on any of the rows to view detailed information about the organization.
-![image](/content/images/CSOIMGS/S17.png)
+![image](/content/images/cso/S17.png)
 
 ## Taxpayer Management 
  **To view the approved list**
   1. Click on **Approved List**.The list is displayed on the screen.
  2. Click on any row to view information about the organization.
-![image](/content/images/CSOIMGS/S18.png)
+![image](/content/images/cso/S18.png)
 
 ---
 
@@ -160,14 +160,14 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Taxpayers Folder**.
  2. Enter either of the fields of Taxpayer.
  3. Click on the details to open the folder.
-![image](/content/images/CSOIMGS/S19.png)
+![image](/content/images/cso/S19.png)
 
 ---
 
 ## Taxpayer Management
  1. The details of the taxpayer display.
  2. The next action of the taxpayer is shown.
-![image](/content/images/CSOIMGS/S20.png)
+![image](/content/images/cso/S20.png)
 
 ---
 
@@ -176,7 +176,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on Search taxpayer.
  2. Fill the required search fields and select the required dropdowns.
  3. Click on **Record Search**.The result is displayed below.
-![image](/content/images/CSOIMGS/S21.png)
+![image](/content/images/cso/S21.png)
 
 ---
 
@@ -186,7 +186,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter the TIN/Ghana Card number.
  3. Click on Search Taxpayer. The result is displayed below.
  4. Click on any result to open the folder.
-![image](/content/images/CSOIMGS/S22.png)
+![image](/content/images/cso/S22.png)
 
 ---
 
@@ -196,7 +196,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter the File No.
  3. Enter the TIN.
  4. Click on **Assign TIN**.
-![image](/content/images/CSOIMGS/S23.png)
+![image](/content/images/cso/S23.png)
 
 ---
 
@@ -205,7 +205,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Assign Tax Office**.
  2. Enter the TIN/Ghana Card Number.
  3. Click **Process Print**.
-![image](/content/images/CSOIMGS/S24.png)
+![image](/content/images/cso/S24.png)
 
 ---
 
@@ -214,7 +214,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Accounting Period List**.
  2. Enter the TIN/Ghana Card Number.
  3. Click on **Search**.The results are displayed.
-![image](/content/images/CSOIMGS/S25.png)
+![image](/content/images/cso/S25.png)
 
 ---
 
@@ -223,7 +223,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Manage Tax Type**.
  2. Enter the TIN/Ghana Card.
  3. Click on **Search Tax Type**.The results will be displayed.
-![image](/content/images/CSOIMGS/S26.png)
+![image](/content/images/cso/S26.png)
 
 ---
 
@@ -232,7 +232,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on Pending Processes.
  2. The pending processes with the status and count is displayed. 
  3. A further breakdown of the pending processes according to months, years, and counts is made accessible upon clicking on a row. 
-![image](/content/images/CSOIMGS/S27.png)
+![image](/content/images/cso/S27.png)
 
 ---
 
@@ -241,7 +241,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Search Tax**.
  2. Enter the TIN/Ghana Card number.
  3. Click on **Search Tax**.The results will be displayed.
-![image](/content/images/CSOIMGS/S28.png)
+![image](/content/images/cso/S28.png)
 
 ---
 
@@ -250,7 +250,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Search for Ghana Card**.
  2. Select **CARD/TIN**.
  3. Enter the Ghana Card number and click on the **Search**.
-![image](/content/images/CSOIMGS/S29.png)
+![image](/content/images/cso/S29.png)
 
 ---
 
@@ -259,7 +259,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Assign Ghana card to TIN**.
  2. Enter the TIN/Ghana Card number.
  3. Click on **Assign GH Card**.
-![image](/content/images/CSOIMGS/S30.png)
+![image](/content/images/cso/S30.png)
 
 ---
 
@@ -267,7 +267,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
 – **To View Pending Returns Process**
  1. Click on **Pending Returns Process**. The processes will be displayed.
  2. Click on an of the processes to view the details.
-![image](/content/images/CSOIMGS/S31.png)
+![image](/content/images/cso/S31.png)
 
 ---
 
@@ -277,7 +277,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  Fill the parameters.
  Click on **Record Search**.
  The results will be displayed.
-![image](/content/images/CSOIMGS/S32.png)
+![image](/content/images/cso/S32.png)
 
 ---
 
@@ -287,7 +287,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter the TIN/Ghana Card number.
  3. Click **Open Taxpayer Returns**.
  4. Select the tax type. The results will be displayed.
-![image](/content/images/CSOIMGS/S33.png)
+![image](/content/images/cso/S33.png)
 
 ---
 
@@ -295,14 +295,14 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To Search for Taxpayers Receipts**
  1. Click on **Search Receipt / Search Receipt2**.
  2. Fill in the fields. Click on **Record Search**.
-![image](/content/images/CSOIMGS/S34.png)
+![image](/content/images/cso/S34.png)
 
 ---
 
 ## RECEIPTS
  **To View Taxpayer Receipts**
  1. The details of the searched receipt will populate.
-![image](/content/images/CSOIMGS/S35.png)
+![image](/content/images/cso/S35.png)
 
 ---
 
@@ -311,7 +311,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1.Click on **Search GGOV Invoice**.
  2. Enter the **GhGov Invoice No**. or Tax Bill ID.
  3. Click **Process Print**.
-![image](/content/images/CSOIMGS/S36.png)
+![image](/content/images/cso/S36.png)
 
 ---
 
@@ -321,7 +321,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Fill the fields and select the dropdowns on nwt page.
  3. Click on Generate Tax Bill to save.
  4.  Click **+ADD NEW** to insert additional rows.
-![image](/content/images/CSOIMGS/S37.png)
+![image](/content/images/cso/S37.png)
 
 ---
 
@@ -331,7 +331,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Fill the required search parameters and select the the required dropdown.
  3. Click on **Record Search**.
  4. The search results will be displayed.
-![image](/content/images/CSOIMGS/S38.png)
+![image](/content/images/cso/S38.png)
 
 ---
 
@@ -340,7 +340,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Register Vehicle**.
  2. Fill all required fields and dropdowns.
  3. Click **Save**.
-![image](/content/images/CSOIMGS/S39.png)
+![image](/content/images/cso/S39.png)
 
 ---
 
@@ -349,7 +349,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Add VIT Sticker No. to Receipt**. 
  2. Enter required details and select dropdowns.
  3. Click on **Save**.
-![image](/content/images/CSOIMGS/S40.png)
+![image](/content/images/cso/S40.png)
 
 ---
 
@@ -358,7 +358,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **View VIT Detail**.
  2. Enter the vehicle number.
  3. Click on **View VIT Detail**.
-![image](/content/images/CSOIMGS/S41.png)
+![image](/content/images/cso/S41.png)
 
 ---
 
@@ -368,7 +368,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Search for cases.
  3. Filter cases by pending, completed and in progress.
  4. Click **+ADD NEW CASE** to add a new case.
-![image](/content/images/CSOIMGS/S42.png)
+![image](/content/images/cso/S42.png)
 
 ---
 
@@ -377,7 +377,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on create **new cases**.
  2. Fill in the fields.
  3. Click on save.
-![image](/content/images/CSOIMGS/S43.png)
+![image](/content/images/cso/S43.png)
 
 ---
 
@@ -387,7 +387,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter TIN/Ghana Card Number.
  3. Click Search Case.
  4. Click **ADD NEW CASE** to add a new case
-![image](/content/images/CSOIMGS/S44.png)
+![image](/content/images/cso/S44.png)
 
 ---
 
@@ -397,7 +397,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Click on **Open Taxpayer Ledger**.
  3. Select the relevant **Tax Type** and **Assessment Year**.
  4. This will grant you access to the taxpayer's ledger for viewing and management.
-![image](/content/images/CSOIMGS/S45.png)
+![image](/content/images/cso/S45.png)
 
 ---
 
@@ -406,7 +406,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Open **Clearance**.
  2. Fill the details.
  3. Click **Save**.
-![image](/content/images/CSOIMGS/S46.png)
+![image](/content/images/cso/S46.png)
 
 ---
 
@@ -415,7 +415,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Search Tax Clearance**.
  2. Fill the details and select the required dropdowns.
  3. Click on Record Search. The search results are displayed.
-![image](/content/images/CSOIMGS/S47.png)
+![image](/content/images/cso/S47.png)
 
 ---
 
@@ -423,7 +423,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View Pending Tax Clearance**
  1. Click on **Pending Tax Clearance**.
  2. Click on any of the rows to expand it to view pending tax clearance details..
-![image](/content/images/CSOIMGS/S48.png)
+![image](/content/images/cso/S48.png)
 
 ---
 
@@ -431,7 +431,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View Approved Tax Clearance**
  1. Click on **Approved Tax Clearance**.
  2. Click on any of the rows to expand it to view approved tax clearance details.
-![image](/content/images/CSOIMGS/S49.png)
+![image](/content/images/cso/S49.png)
 
 ---
 
@@ -440,7 +440,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on ETCC Report
  2. Enter the date range for the report to be generated.
  3. Click on **Process Print**. The result is shown in a new tab.
-![image](/content/images/CSOIMGS/S50.png)
+![image](/content/images/cso/S50.png)
 
 ---
 
@@ -450,7 +450,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter the TIN/Ghana Card Number.
  3. Click on **View Status**. The results are shown below
  4. Click on any of the View Detail buttons to view details about the compliance status.
-![image](/content/images/CSOIMGS/S51.png)
+![image](/content/images/cso/S51.png)
 
 ---
 
@@ -458,7 +458,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View The Value Books List**
  1. Click on Value Books List. The list will be displayed on the right.
  2. Click on any of the row to view the full details of the value book.
-![image](/content/images/CSOIMGS/S52.png)
+![image](/content/images/cso/S52.png)
 
 ---
 
@@ -468,7 +468,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Fill the required fields and select the required dropdowns.
  3. Click on Save
  Click **Add/Edit Items** to add or edit items.
-![image](/content/images/CSOIMGS/S53.png)
+![image](/content/images/cso/S53.png)
 
 ---
 
@@ -476,7 +476,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To view assigned value books**
  1. Click on Assigned Value Books.
  2. Click on any of the rows to view the details of the assigned value books.
-![image](/content/images/CSOIMGS/S54.png)  
+![image](/content/images/cso/S54.png)  
   
 ---
 
@@ -485,7 +485,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Print VAT Certificate**.
  2. Enter the TIN and Business Branch.
  3. Click **Process Print**.The certificate is displayed.
-![image](/content/images/CSOIMGS/S55.png)  
+![image](/content/images/cso/S55.png)  
 
 ---
 
@@ -494,7 +494,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Add Assessment**.
  2. Fill the fields and select the required dropdowns.
  3. Click on **Save**.
-![image](/content/images/CSOIMGS/S56.png)  
+![image](/content/images/cso/S56.png)  
 
 ---
 
@@ -504,7 +504,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  2. Enter the TIN (Taxpayer Identification Number) or GH Card number and Click on Open Taxpayer Assessment.
  3. Select the relevant Assessment Year.
  4. Click to **Manage** or **Print assessment**.
-![image](/content/images/CSOIMGS/S57.png)  
+![image](/content/images/cso/S57.png)  
 
 ---
 
@@ -513,7 +513,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on Print Assessment.
  2. Select the return year and enter the TIN.
  3. Click on **Process Print**. The assessment is displayed.
-![image](/content/images/CSOIMGS/S58.png)  
+![image](/content/images/cso/S58.png)  
 
 ---
 
@@ -522,7 +522,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Assessment Report**.
  2. Select return year, report type, tax office, and tax payer status. A table showing the results will be displayed.
  3. Click **View** to see the results.
-![image](/content/images/CSOIMGS/S59.png)  
+![image](/content/images/cso/S59.png)  
 
 ---
 
@@ -531,7 +531,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Lodgments Per Period**.
  2. Select the return type and date range.
  3. Click on Process Print. The results will be displayed.
-![image](/content/images/CSOIMGS/S60.png)  
+![image](/content/images/cso/S60.png)  
 
 ---
 
@@ -539,7 +539,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View Lodgment By Time Periods**
  1. Click on the Lodgment you want to view. The information will be displayed.
  2. Click on any of the rows to view the details.
-![image](/content/images/CSOIMGS/S61.png)
+![image](/content/images/cso/S61.png)
 
 ---
 
@@ -548,7 +548,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click **CIT/PIT Filing Report**.
  2. Select the year and enter the TIN. 
  3. Click **Process Print**.The results are displayed.
-![image](/content/images/CSOIMGS/S62.png)
+![image](/content/images/cso/S62.png)
 
 ---
 
@@ -557,7 +557,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Top 100 Lodgments**.
  2. Select the month range.
  3. Click on Process Print. The results are displayed.
-![image](/content/images/CSOIMGS/S63.png)
+![image](/content/images/cso/S63.png)
 
 ---
 
@@ -566,7 +566,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Processed Returns Report**.
  2. Select the month range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S64.png)
+![image](/content/images/cso/S64.png)
 
 ---
 
@@ -575,7 +575,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Online Filing Report**.
  2. Select the return type and month.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S65.png)
+![image](/content/images/cso/S65.png)
 
 ---
 
@@ -584,7 +584,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Online Filing Report**.
  2. Select the return type and month.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S66.png)
+![image](/content/images/cso/S66.png)
 
 ---
 
@@ -593,7 +593,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Never Filers**.
  2. Select the return type, date range, and enter the TIN.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S67.png)
+![image](/content/images/cso/S67.png)
 
 ---
 
@@ -602,7 +602,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Stop Filers**.
  2. Select the month range, return type, and enter the taxpayer branch.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S68.png)
+![image](/content/images/cso/S68.png)
 
 ---
 
@@ -611,7 +611,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Non Filers**.
  2. Select the month range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S69.png)
+![image](/content/images/cso/S69.png)
 
 ---
 
@@ -620,7 +620,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Nil Filers**.
  2. Select the month range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S70.png)
+![image](/content/images/cso/S70.png)
 
 ---
 
@@ -629,7 +629,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Credit Filers**.
  2. Select the return month range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S71.png)
+![image](/content/images/cso/S71.png)
 
 ---
 
@@ -638,7 +638,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Late Filers**.
  2. Select the return type, period, and enter the TIN.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S72.png)
+![image](/content/images/cso/S72.png)
 
 ---
 
@@ -647,7 +647,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Summary of Returns**.
  2. Select the date range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S73.png)
+![image](/content/images/cso/S73.png)
 
 ---
 
@@ -656,7 +656,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Returns Lodgment Backdates**.
  2. Select the date range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S74.png)
+![image](/content/images/cso/S74.png)
 
 ---
 
@@ -665,7 +665,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Registered Tax Types**.
  2. Select the month range and return type.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S75.png)
+![image](/content/images/cso/S75.png)
 
 ---
 
@@ -673,14 +673,14 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the Taxpayers Master List**
  1. Click on **Taxpayers Master List**.
  2. The list will be displayed and can be filtered using the dropdowns or search bar.
-![image](/content/images/CSOIMGS/S76.png)
+![image](/content/images/cso/S76.png)
 
 ---
 **To view the tax payer list by tax type**
  1. Click on Taxpayer List By Tax type.
  2. Select the tax type. 
  3. Click on Process Print. The results are displayed.
-![image](/content/images/CSOIMGS/S77.png)
+![image](/content/images/cso/S77.png)
 
 ---
 
@@ -689,7 +689,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Newly Registered Taxpayers**.
  2. Select the date range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S78.png)
+![image](/content/images/cso/S78.png)
 
 ---
 
@@ -697,7 +697,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the Taxpayer Vehicle List**
  1. Click on **Taxpayer Vehicle List**.
  2. The list will be displayed.
-![image](/content/images/CSOIMGS/S79.png)
+![image](/content/images/cso/S79.png)
 
 ---
 
@@ -706,7 +706,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Provisional Assessment**.
  2. Select the year.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S80.png)
+![image](/content/images/cso/S80.png)
 
 ---
 
@@ -714,7 +714,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the Taxpayer Tax Type Summary**
  1. Click on **Taxpayer Tax Type Summary**.
  2. The list will be displayed.
-![image](/content/images/CSOIMGS/S81.png)
+![image](/content/images/cso/S81.png)
 
 ---
 
@@ -722,7 +722,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the TIN/Ghana Card List**
  1. Click on **TIN/GHCARD Linked List**.
  2. The list will be displayed.
-![image](/content/images/CSOIMGS/S82.png)
+![image](/content/images/cso/S82.png)
 
 ---
 
@@ -731,7 +731,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Lodgments vs Payments**.
  2. Select the required dropdowns and enter the TIN.
  3. Click on **Process Print**. The results will be displayed.
-![image](/content/images/CSOIMGS/S83.png)
+![image](/content/images/cso/S83.png)
 
 ---
 
@@ -740,7 +740,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Payments Without Lodgment**.
  2. Select the return type and month.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S84.png)
+![image](/content/images/cso/S84.png)
 
 ---
 
@@ -749,7 +749,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Top Highest Payments**.
  2. Select the date range.
  3. Click on **Process Print**. The results are displayed.
-![image](/content/images/CSOIMGS/S85.png)
+![image](/content/images/cso/S85.png)
 
 ---
 
@@ -758,7 +758,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Tax Payer Receipts**.
  2. Enter the TIN, select the return type and the date range.
  3. Click on **Process Print**. The results will be displayed.
-![image](/content/images/CSOIMGS/S86.png)
+![image](/content/images/cso/S86.png)
 
 ---
 
@@ -767,7 +767,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Payments over Months**.
  2. Select the tax type, month range, and enter the TIN.
  3. Click on **Process Print**. The results will be displayed.
-![image](/content/images/CSOIMGS/S87.png)
+![image](/content/images/cso/S87.png)
 
 ---
 
@@ -775,7 +775,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the TIN/Ghana Card Linked List**
  1. Click on **TIN/GhCard Linked List**.
  2. The list will be displayed.
-![image](/content/images/CSOIMGS/S88.png)
+![image](/content/images/cso/S88.png)
 
 ---
 
@@ -783,7 +783,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View the Provisional Assessment vs Payment**
  1. Click on **Prov. Assessment Vs Payment**.
  2. The list will be displayed.
-![image](/content/images/CSOIMGS/S89.png)
+![image](/content/images/cso/S89.png)
 
 ---
 
@@ -792,7 +792,7 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  1. Click on **Add Complaint**.
  2. Fill in the details and select the required dropdowns.
  3. Click on **Save**.
-![image](/content/images/CSOIMGS/S90.png)
+![image](/content/images/cso/S90.png)
 
 ---
 
@@ -800,6 +800,6 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
  **To View Your Complaints**
  1. Click on **My Complaints**.
  2. The complaints made will be displayed.
-![image](/content/images/CSOIMGS/S91.png)
+![image](/content/images/cso/S91.png)
 
 
