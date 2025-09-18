@@ -13,6 +13,12 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Rent Tax
+      link: /Rent-tax
+    - theme: alt
+      text: Exice Unit
+      link: /excise-unit
 
 features:
   - title: Feature A
