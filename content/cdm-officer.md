@@ -390,28 +390,214 @@ After resetting your password, return to the GITMIS 3 Login page and log in with
 ---
 # DEBT MANAGEMENT
 **Under Debt Management**
-1. Click on General Debt Stock
-2. Select the Tax Office, Tax type and the debt stock year.  
+1. Click on **General Debt Stock**
+2. Select the **Tax Office, Tax type and the debt stock year**.  
 3. Click to display the Established Debt Stock.
 
+![](<images/cdm-office/Under Debt Management.png>)
+---
+**Under Debt Management**
+1. Click on **General Debt Stock**
+2. Click the drop-down menu, and select the  Tax type and the debt stock year.
+3. This administration is divided into two: **the compliance from the 30-day low risk to 60-day medium risk**, and **non-compliant taxpayers from 61 days high risk to 90 days very high risk**.  
+4. Any figure there that is clickable will open the debt stock report
+5. This General debt stock report for the 30-day low-risk
 
+![](<images/cdm-office/Under Debt Management1.png>)
+---
+**Under Debt Management**
+1. Click on Established Debt Stock
+2. Select the Tax Office, Tax type and the debt stock year.
+3. Click to display the General Debt Stock.
+![](<images/cdm-office/Under Debt Management2.png>)
+---
+**Under Debt Management**
+1. Click on Area Enforcement List
+2. Select the Tax Office to display the list
+3. Click to display the List by cumulative total
 
+![](<images/cdm-office/Under Debt Management3.png>)
+---
+**Under Debt Management**
+1. Click on Yearly Liability Stock
+2. Select the Tax Office to display the list for the office
+3. Click on the yearly amount you want to view
+4. The details of the year will display.
 
+![](<images/cdm-office/Under Debt Management4.png>)
+---
+**Under Debt Management**
+1. Click on Area Enforcement List
+2. Select the Tax Office to display the list
+3. Click to display the List by cumulative total
 
+![](<images/cdm-office/Under Debt Management5.png>)
+---
+**Under Debt Management**
+1. Click on Revenue Accounts.
 
+2. Select any of the List to display the details.
+   
+![](<images/cdm-office/Under Debt Management6.png>)
+---
+**Under Debt Management**
+1. Click on Add New
 
+2. Fill the fields and click save.
 
+![](<images/cdm-office/Under Debt Management7.png>)
+---
+**Under Demand Notice, Penalties & Interest**  
+1. Click on search
 
+2. Fill the fields and click record search.
 
+![](<images/cdm-office/Demand Notice.png>)
+---
+**Under Demand Notice, Penalties & Interest**  
+1. Click on reports
 
+2. Select the item you want to view it’s report.
 
+![](<images/cdm-office/Demand Notice1.png>)
+---
+**Under Penalty & Final Demand**  
+1. Click on Add New
+2. Input the taxpayer details, and click the drop-down to select the officer
+3. Click on Add/ Edit taxpayer liability
+4. Save it.
 
+![](<images/cdm-office/Under Penalty.png>)
+---
+**Under Penalty & Final Demand**  
+1. Click on search
+2. Fill the fields and click record search.
+![](<images/cdm-office/Under Penalty1.png>)
+---
+**Under Penalty & Final Demand**  
+1. Click on reports
+2. Select the item you want to view it’s report.
 
+![](<images/cdm-office/Under Penalty2.png>)
+---
+**Under Installment Agreement, open Agreement**
+1. Click on Add New
+2. Fill the fields and click save.
 
+![](<images/cdm-office/Under Installment Agreement.png>)
+---
+**Under Installment Agreement, open Agreement**
+1. Click on search
+2. Fill the fields and click record search.
 
+![](images/cdm-office/Picture72.png)
+---
+**Under Penalty & Final Demand**
+1. Click on reports to view
 
+![](images/cdm-office/Picture73.png)
+---
+# ACCOUNT ADJUSTMENT
+**Request Credit Adjustment**
+1. Click on Request Credit Adjustment
+2. Fill in the required parameter.
+3. Click on save.
 
+![](images/cdm-office/Picture74.png)
+---
+**Under Account Adjustment**
+1. Click on Pending Credit Adjustment.
+2. Select an Item.
 
+![](images/cdm-office/Picture75.png)
+---
+**Under Account Adjustment**
+1. Click on Credit Adjustment
+2. Fill the search parameters.
+3. Click on record search.
+
+![](images/cdm-office/Picture76.png)
+---
+**Under Account Adjustment**
+1. Click on Request  Debit Adjustment
+2. Enter the required fields.
+3. Click on save
+
+![](images/cdm-office/Picture77.png)
+---
+**Under Account Adjustment**
+1. Click on pending Debit Adjustment
+2. Select an Item.
+
+![](images/cdm-office/Picture78.png)
+---
+**Under Account Adjustment**
+1. Click on Search Debit Adjustment
+2. Click on Record Search.
+
+![](images/cdm-office/Picture79.png)
+---
+# DESK REVIEWS
+**Under Desk Reviews**
+1. Click on Desk Review Status.
+2. Click on the drop-down menu to select Tax office, Risk bands, and risk year.
+
+![](images/cdm-office/Picture80.png)
+---
+**Under Desk Reviews**
+1. Click on Manage Desk Review.
+2. Fill the fields.
+
+![](images/cdm-office/Picture81.png)
+---
+**Under Desk Reviews**
+1. Click on Add New Desk Review.
+2. Fill the fields and click save.
+
+![](images/cdm-office/Picture84.png)
+---
+**Under Desk Reviews**
+1. Click on Search Desk Review.
+2. Fill the fields and click record search.
+
+![](images/cdm-office/Picture85.png)
+---
+# GHANA CARD
+**To search for Ghana Card:**
+1. Click on Search for Ghana card.
+2. Choose either Gh card or TIN, Fill the fields and click search.
+
+![](images/cdm-office/Picture86.png)
+---
+# TAXPAYERS FOLDER
+**To open Taxpayers Folder:**
+1. Click on open Taxpayers Folder.
+2. Enter either of the fields and click search Taxpayer.
+3. Click on the details to open the folder.
+
+![](images/cdm-office/Picture87.png)
+---
+**To open Taxpayers Folder:**
+1. The details of the Taxpayer displays.
+2. The next processing action of the Taxpayer populates
+
+![](images/cdm-office/Picture88.png)
+---
+# OPEN TAXPAYERS LEDGER
+**To access a taxpayer's ledger:**
+1. Click on Open Taxpayer Ledger.
+2. Enter the TIN (Taxpayer Identification Number) or GH Card number and Click on 'Open Taxpayer Ledger’.
+3. Select the relevant 'Tax Type' and 'Assessment Year’.
+
+![](images/cdm-office/Picture89.png)
+---
+# TAXPAYER RETURNS
+**To search for Taxpayers return:**
+1. Click on Search Returns
+2. Fill the fields and click record search
+
+![](images/cdm-office/Picture90.png)
+---
 
 
 
