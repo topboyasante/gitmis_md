@@ -20,7 +20,8 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Rent Tax', link: '/Rent-tax' },
-          { text: 'Excise Unit', link: '/excise-unit' }
+          { text: 'Excise Unit', link: '/excise-unit' },
+          { text: 'Accountant', link: '/accountant' }
         ]
       }
     ],
