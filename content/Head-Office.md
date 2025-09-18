@@ -12,7 +12,7 @@
 1.  Click **Reset Password** and follow the prompts to create a new one.
 
 ![](/content/images/head-office/4234db7df4a6e5d1a894fb1d5a507035.png)
-
+---
 # PASSWORD RESET  
 ### To Reset your account, Enter your
 
@@ -25,9 +25,9 @@
     with your new password.
 
 ![](/content/images/head-office/a7ce3d53a3ce20fe96ed8787cefa95a2.png)
+---
+# TAXPAYER MANAGEMENT
 
-TAXPAYER MANAGEMENT
-===================
 
 ### Open Taxpayer Ledger
 
@@ -42,7 +42,7 @@ TAXPAYER MANAGEMENT
     management.
 
 ![](/content/images/head-office/27c8c973e61cb1ddeec66985643f2c37.png)
-
+---
 ### Open Taxpayer Folder
 
 1.  Click **Open Taxpayer Folder**
@@ -59,7 +59,7 @@ TAXPAYER MANAGEMENT
 
 ![](/content/images/head-office/296cbdc6ddeccfa1eff3941d06a1db69.png)
 
-\---
+---
 
 ### View Taxpayer Details
 
@@ -76,7 +76,7 @@ TAXPAYER MANAGEMENT
     1.  The previous actions of the Taxpayer populates.
 
     ![](/content/images/head-office/8924cd99353d9264a7ca764fe38acfc4.png)
-
+---
 ### Search Generated TIN
 
 1.  Click **Search Generated TIN**
@@ -88,7 +88,7 @@ TAXPAYER MANAGEMENT
 4.  The Search results are displayed.
 
 ![](/content/images/head-office/1dc2d821cf7a9ec7ffca9a7b5d0b97dc.png)
-
+---
 ### Search for a Taxpayer
 
 1.  Enter information in any of the search parameters provided such as TIN, Tax
@@ -98,7 +98,7 @@ TAXPAYER MANAGEMENT
 
 ![](/content/images/head-office/3a2ac8fd7c486f95c3daa123fbb4b2d2.png)
 
-\---
+---
 
 ### Manage Taxpayer:
 
@@ -111,9 +111,8 @@ TAXPAYER MANAGEMENT
 4.  Click on any result to open the folder.
 
 ![](/content/images/head-office/2e7041385a0fe7ae384a974039a2814f.png)
-
-Taxpayer Returns
-================
+---
+# Taxpayer Returns
 
 ### To search for Taxpayers returns:
 
@@ -122,7 +121,7 @@ Taxpayer Returns
 2.  Fill the fields and Click **Record Search**
 
 ![](/content/images/head-office/a421c4abac396cb23057daa6b6edef26.png)
-
+---
 ### Manage Returns
 
 1.  Click **Manage Returns**
@@ -168,7 +167,7 @@ The details of the searched receipt will populate
 
 ---
 
-ISSUE TAX BILL
+# ISSUE TAX BILL
 --------------
 
 1.  Click on **Issue Tax Bill**
@@ -182,9 +181,7 @@ ISSUE TAX BILL
 
 ![](/content/images/head-office/7a06d05c20aebda14fba0bf43c81bac0.png)
 
-TAX BILL
---------
-
+# TAX BILL  
 ### Under the Taxbill menu:
 
 1.  Click on **Search Tax Bill**.
@@ -196,8 +193,6 @@ TAX BILL
 ![](/content/images/head-office/23dd2a2ec2669addaebd5e85e2354a04.png)
 
 ## TAX BILL PRINT OUT
-------------------
-
 ### The generated Bill shows:
 
 1.  The Tax Bill ID number
@@ -212,11 +207,8 @@ TAX BILL
 ---------------
 
 # REPORTS
-=======
 
 ## E-Levy Payments
----------------
-
 1.  Click on E-Levy Payments.
 
 2.  Select the Payment Date From and Date To.
@@ -228,9 +220,7 @@ TAX BILL
 ### E-Levy Pending Bills
 
 1.  Click on **E-Levy Payments**.
-
 2.  Select the **Bill Generated From Date** and **Date To**
-
 3.  Click on **Process Print**. The results is displayed.
 
 ![](/content/images/head-office/ce46ed1dda2b7e60fcc4b2de1f83eff6.png)
