@@ -4,7 +4,7 @@
 ### **To reset your account:** 
 2. Click on Reset Password and follow the prompt to create a new one.
 
-![picture1](/public/images/valuation/Picture1%20(1).png)
+![picture1](/content/images/valuation/Picture1%20(1).png)
 
 ## PASSWORD RESETg
 ### **To reset your account, Enter your:**
@@ -13,47 +13,47 @@
 2. Click on Return to Login Page.
 >*After resetting your password, return to the GITMIS 3 Login page and log in with your new password.*
 
-![picture2](/public/images/valuation/Picture2%20(1).png)
+![picture2](/content/images/valuation/Picture2%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 ### **To complete a taxpayers registration:**
 1. Click on complete taxpayer registration.
 2. Enter the TIN or Ghana card number.
 3. Click on Process Print.
-![picture3](/public/images/valuation/Picture3%20(1).png)
+![picture3](/content/images/valuation/Picture3%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 ### **To open Taxpayers Folder:**
 1. Click on open Taxpayers Folder.
 2. Enter either of the fields and click search Taxpayer.
 3. Click on the details to open the folder.
-![picture4](/public/images/valuation/Picture4%20(1).png)
+![picture4](/content/images/valuation/Picture4%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 ### **To open Taxpayers Folder:**
 1. Click on open Taxpayers Folder.
 2. Enter either of the fields and click search Taxpayer.
 3. Click on the details to open the folder.
-![picture5](/public/images/valuation/Picture5%20(1).png)
+![picture5](/content/images/valuation/Picture5%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 1. The details of the Taxpayer displays.
 2. The next processing action of the Taxpayer populates.
-![picture6](/public/images/valuation/Picture6%20(1).png)
+![picture6](/content/images/valuation/Picture6%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 ### **To Open View Taxpayer Details:**
 1. Click on View Taxpayer Details.
 2. Enter either of the fields and click search Taxpayer.
 3. Click on the details view taxpayer details.
-![picture7](/public/images/valuation/Picture7%20(1).png)
+![picture7](/content/images/valuation/Picture7%20(1).png)
 
 ## TAXPAYER MANAGEMENT
 ### **To search for a taxpayer:**
 1. Click on Search Taxpayer.
 2. Fill the required search fields and select the required dropdowns.
 3. Click on Record Search. The result is displayed below.
-![picture8](/public/images/valuation/Picture8%20(1).png)
+![picture8](/content/images/valuation/Picture8%20(1).png)
 
 ## TAX TYPE MANAGEMENT
 ### **To register tax type:**
@@ -62,7 +62,7 @@
 3. Select the Tax Type.
 4. Select the EDR date.
 5. Click on Register Tax Type.
-![picture9](/public/images/valuation/Picture9%20(1).png)
+![picture9](/content/images/valuation/Picture9%20(1).png)
 
 ## ASSESSMENT
 ### **To add assessment:**
@@ -72,13 +72,13 @@
 4. Click on any of the boxes under the tax type.
 5. Fill the Assessment form.
 6. Click on Save.
-![picture10](/public/images/valuation/Picture10%20(1).png)
+![picture10](/content/images/valuation/Picture10%20(1).png)
 
 ## TAXPAYER RETURNS
 ### **To search for Taxpayers return:**
 1. Click on Search Returns
 2. Fill the fields and click record search.
-![picture11](/public/images/valuation/Picture11%20(1).png)
+![picture11](/content/images/valuation/Picture11%20(1).png)
 
 
 ## TAXPAYER RETURNS
@@ -88,7 +88,7 @@
 3. Click on Open Taxpayer Returns. Select the tax type and assessment year.
 4. Select a month to view the details of the returns for that month.
 5. You can Register New Tax Type
-![picture12](/public/images/valuation/Picture12%20(1).png)
+![picture12](/content/images/valuation/Picture12%20(1).png)
 
 ## TAXBILL
 ### **Under the Taxbill menu:**
@@ -96,74 +96,74 @@
 2. Fill the fields and select the drop-downs.
 3. Click on Generate Tax Bill to save.
 4. Click '+ADD NEW ROW' to insert additional row
-![picture13](/public/images/valuation/Picture13%20(1).png)
+![picture13](/content/images/valuation/Picture13%20(1).png)
 
 ## TAXBILL
 ### **Under the Taxbill menu:**
 1. Click on Search Tax Bill.
 2. Fill the fields and select the drop-downs
 3. Click on record search.
-![picture14](/public/images/valuation/Picture14%20(1).png)
+![picture14](/content/images/valuation/Picture14%20(1).png)
 
 ## RECEIPTS
 ### **To search for Taxpayers receipts:**
 1. Click on Search receipts/ Search Receipt 2.
 2. Fill any of the fields and click record search.
-![picture15](/public/images/valuation/Picture15%20(1).png)
+![picture15](/content/images/valuation/Picture15%20(1).png)
 
 ## RECEIPTS
 ### **Search GGOV Invoice**
 1. Click on Search GGOV Invoice.
 2. Input the Invoice Number or Tax bill ID and click Process Print.
-![picture16](/public/images/valuation/Picture16%20(1).png)
+![picture16](/content/images/valuation/Picture16%20(1).png)
 
 ## GHANA CARD
 ### **To search for Ghana card:**
 1. Click on Search for Ghana Card.
 2. Select the Gh CARD/TIN
 3. Enter the Ghana Card Number/TIN and click on the Search button.
-![picture17](/public/images/valuation/Picture17%20(1).png)
+![picture17](/content/images/valuation/Picture17%20(1).png)
 
 ## REPORTS
 ### **To view Assessments vs Payments report:**
 1. Click on Assessments vs Payments.
 2. Enter taxpayer’s records, Select Assessment year, Tax Type and Report Type.
 3. Click on View detail to view taxpayer details.
-![picture18](/public/images/valuation/Picture18%20(1).png)
+![picture18](/content/images/valuation/Picture18%20(1).png)
 
 ## REPORTS
 ### **To view Monthly Assessment vs Payments report:**
 1. Click on Monthly Assessment vs Payments.
 2. Select the month range and Click on Process Print.
-![picture19](/public/images/valuation/Picture19%20(1).png)
+![picture19](/content/images/valuation/Picture19%20(1).png)
 
 ## REPORTS
 ### **To view Payments by receipt date:**
 1. Click on Payments by receipt date.
 2. Select the date range and Click on Process Print.
-![picture20](/public/images/valuation/Picture20%20(1).png)
+![picture20](/content/images/valuation/Picture20%20(1).png)
 
 ## REPORTS
 ### **To view Taxpayer receipt:**
 1. Click on Taxpayer receipt.
 2. Enter the taxpayer receipt details and Click on Process Print.
-![picture21](/public/images/valuation/Picture21%20(1).png)
+![picture21](/content/images/valuation/Picture21%20(1).png)
 
 ## REPORTS
 ### **To view lodgements vs Payments report:**
 1. Click on Lodgment vs Payments.
 2. Fill in the details and Click on Process Print.
-![picture22](/public/images/valuation/Picture22%20(1).png)
+![picture22](/content/images/valuation/Picture22%20(1).png)
 
 ## GITMIS ISSUES
 ### **To file a complaint:**
 1. Click on Add Complaint.
 2. Fill in the details. 
 3. Click on Save.
-![picture23](/public/images/valuation/Picture23%20(1).png)
+![picture23](/content/images/valuation/Picture23%20(1).png)
 
 ## GITMIS ISSUES
 ### **To view your complaints::**
 1. Click on My Complaints.
 2. The complaints made will be displayed.
-![picture24](/public/images/valuation/Picture24%20(1).png)
+![picture24](/content/images/valuation/Picture24%20(1).png)
