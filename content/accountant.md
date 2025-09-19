@@ -12,7 +12,7 @@
 
 2. Click on Reset Password and follow the prompt to create a new one.
 
-![image](./images/accountant/to-log-in-as-accountant.png)
+![image](/public/images/accountant/to-log-in-as-accountant.png)
 
 ---
 
@@ -28,7 +28,7 @@
 
 <font color="red">After resetting your password, return to the GITMIS 3 Login page and log in with your new password.</font>
 
-![image](./images/accountant/password-reset-accountant.png)
+![image](/public/images/accountant/password-reset-accountant.png)
 
 ---
 
@@ -42,7 +42,7 @@
 
 3. Click on Process Print to print the TaxPayer information.
 
-![image](./images/accountant/clean-a-taxpayer.png)
+![image](/public/images/accountant/clean-a-taxpayer.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/accountant-daily-report.png)
+![image](/public/images/accountant/accountant-daily-report.png)
 
 ---
 
@@ -70,7 +70,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/accountant-daily-online-report.png)
+![image](/public/images/accountant/accountant-daily-online-report.png)
 
 ---
 
@@ -84,7 +84,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/ghana-gov-payments-accountant.png)
+![image](/public/images/accountant/ghana-gov-payments-accountant.png)
 
 ---
 
@@ -96,7 +96,7 @@
 
 2. Fill in the details and Click on Process Print.
 
-![image](./images/accountant/summary-by-tax-type-report-accountant.png)
+![image](/public/images/accountant/summary-by-tax-type-report-accountant.png)
 
 ---
 
@@ -110,7 +110,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/payments-by-date-received.png)
+![image](/public/images/accountant/payments-by-date-received.png)
 
 ---
 
@@ -124,7 +124,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/download-gh-gov-report.png)
+![image](/public/images/accountant/download-gh-gov-report.png)
 
 ---
 
@@ -138,7 +138,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/top-highest-payment-accountant.png)
+![image](/public/images/accountant/top-highest-payment-accountant.png)
 
 ---
 
@@ -152,7 +152,7 @@
 
 3. Click on Process. The results is displayed.
 
-![image](./images/accountant/process-receipts-GITMIS-2.png)
+![image](/public/images/accountant/process-receipts-GITMIS-2.png)
 
 ---
 
@@ -166,7 +166,7 @@
 
 3. Click on Process. The results is displayed.
 
-![image](./images/accountant/process-receipts-GITMIS-3.png)
+![image](/public/images/accountant/process-receipts-GITMIS-3.png)
 
 ---
 
@@ -180,7 +180,7 @@
 
 3. Click on Record Search. The results are displayed in the search results.
 
-![image](./images/accountant/search-receipt-GITMIS-2.png)
+![image](/public/images/accountant/search-receipt-GITMIS-2.png)
 
 ---
 
@@ -192,7 +192,7 @@
 
 2. Select an Item. Results will be displayed
 
-![image](./images/accountant/returned-cheques.png)
+![image](/public/images/accountant/returned-cheques.png)
 
 ---
 
@@ -204,7 +204,7 @@
 
 2. Fill in the details and Click on Record Search.
 
-![image](./images/accountant/search-returned-cheques-report.png)
+![image](/public/images/accountant/search-returned-cheques-report.png)
 
 ---
 
@@ -218,7 +218,7 @@
 
 3. Click on the save
 
-![image](./images/accountant/black-list-taxpayer.png)
+![image](/public/images/accountant/black-list-taxpayer.png)
 
 ---
 
@@ -232,7 +232,7 @@
 
 3. Click on process print. The results are displayed.
 
-![image](./images/accountant/currency-type-summary.png)
+![image](/public/images/accountant/currency-type-summary.png)
 
 ---
 
@@ -244,7 +244,7 @@
 
 2. Enter the period from and period to.
 
-![image](./images/accountant/payment-mode-summary.png)
+![image](/public/images/accountant/payment-mode-summary.png)
 
 ---
 
@@ -258,7 +258,7 @@
 
 3. Click on save.
 
-![image](./images/accountant/active-batches.png)
+![image](/public/images/accountant/active-batches.png)
 
 ---
 
@@ -272,7 +272,7 @@
 
 3. Click on save.
 
-![image](./images/accountant/add-new-batch.png)
+![image](/public/images/accountant/add-new-batch.png)
 
 ---
 
@@ -286,7 +286,7 @@
 
 3. Click on process print.
 
-![image](./images/accountant/cashiers-backlog-report.png)
+![image](/public/images/accountant/cashiers-backlog-report.png)
 
 ---
 
@@ -298,7 +298,7 @@
 
 2. Select Browse Report and the results will be displayed.
 
-![image](./images/accountant/bank-lodgement-report.png)
+![image](/public/images/accountant/bank-lodgement-report.png)
 
 ---
 
@@ -312,7 +312,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/revenue-collection-schedule.png)
+![image](/public/images/accountant/revenue-collection-schedule.png)
 
 ---
 
@@ -326,7 +326,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/summary-by-tax-type-accountant-2.png)
+![image](/public/images/accountant/summary-by-tax-type-accountant-2.png)
 
 ---
 
@@ -340,7 +340,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/summary-by-tax-payer-type-accountant.png)
+![image](/public/images/accountant/summary-by-tax-payer-type-accountant.png)
 
 ---
 
@@ -352,7 +352,7 @@
 
 2. Select a cashier’s report.
 
-![image](./images/accountant/daily-detail-cashiers-report.png)
+![image](/public/images/accountant/daily-detail-cashiers-report.png)
 
 ---
 
@@ -364,7 +364,7 @@
 
 2. Select an item.
 
-![image](./images/accountant/summarized-daily-cashiers-report-accountant.png)
+![image](/public/images/accountant/summarized-daily-cashiers-report-accountant.png)
 
 ---
 
@@ -378,7 +378,7 @@
 
 3. Click on generate tax bill.
 
-![image](./images/accountant/issue-tax-bill-accountant.png)
+![image](/public/images/accountant/issue-tax-bill-accountant.png)
 
 ---
 
@@ -392,7 +392,7 @@
 
 3. Click on Record Search.
 
-![image](./images/accountant/search-tax-bill-accountant.png)
+![image](/public/images/accountant/search-tax-bill-accountant.png)
 
 ---
 
@@ -406,7 +406,7 @@
 
 3. Click on Search.
 
-![image](./images/accountant/search-for-ghana-card.png)
+![image](/public/images/accountant/search-for-ghana-card.png)
 
 ---
 
@@ -418,7 +418,7 @@
 
 2. Enter what to search for.
 
-![image](./images/accountant/TINGh-card-linked-list.png)
+![image](/public/images/accountant/TINGh-card-linked-list.png)
 
 ---
 
@@ -432,7 +432,7 @@
 
 3. Click on the details to open the folder.
 
-![image](./images/accountant/open-taxpayers-folder-accountant.png)
+![image](/public/images/accountant/open-taxpayers-folder-accountant.png)
 
 ---
 
@@ -442,7 +442,7 @@
 
 2. The next processing action of the Taxpayer populates.
 
-![image](./images/accountant/taxpayer-management-accountant.png)
+![image](/public/images/accountant/taxpayer-management-accountant.png)
 
 ---
 
@@ -458,7 +458,7 @@
 
 <font color="red">This will grant you access to the taxpayer's ledger for viewing and management</font>
 
-![image](./images/accountant/access-a-taxpayers-ledger.png)
+![image](/public/images/accountant/access-a-taxpayers-ledger.png)
 
 ---
 
@@ -470,7 +470,7 @@
 
 3. Click Process
 
-![image](./images/accountant/search-taxpayer-accountant.png)
+![image](/public/images/accountant/search-taxpayer-accountant.png)
 
 ---
 
@@ -478,7 +478,7 @@
 
 1. Click on Account period list
 
-![image](./images/accountant/account-period-list.png)
+![image](/public/images/accountant/account-period-list.png)
 
 ---
 
@@ -490,7 +490,7 @@
 
 3. Click generate report
 
-![image](./images/accountant/quartely-taxes.png)
+![image](/public/images/accountant/quartely-taxes.png)
 
 ---
 
@@ -502,7 +502,7 @@
 
 3. Click generate report
 
-![image](./images/accountant/yearly-vit.png)
+![image](/public/images/accountant/yearly-vit.png)
 
 ---
 
@@ -516,7 +516,7 @@
 
 3. Click on View Vit Detail.
 
-![image](./images/accountant/view-details-of-a-vit.png)
+![image](/public/images/accountant/view-details-of-a-vit.png)
 
 ---
 
@@ -530,7 +530,7 @@
 
 3. Click on Save.
 
-![image](./images/accountant/to-add-a-VIT-sticker-no-to-a-receipt.png)
+![image](/public/images/accountant/to-add-a-VIT-sticker-no-to-a-receipt.png)
 
 ---
 
@@ -544,7 +544,7 @@
 
 3. Click record search.
 
-![image](./images/accountant/add-search-value-books.png)
+![image](/public/images/accountant/add-search-value-books.png)
 
 ---
 
@@ -558,7 +558,7 @@
 
 3. Click on Process Print.
 
-![image](./images/accountant/search-by-serial-number.png)
+![image](/public/images/accountant/search-by-serial-number.png)
 
 ---
 
@@ -570,7 +570,7 @@
 
 2. Select fieldname.
 
-![image](./images/accountant/value-books-list.png)
+![image](/public/images/accountant/value-books-list.png)
 
 ---
 
@@ -582,7 +582,7 @@
 
 2. Select fieldname.
 
-![image](./images/accountant/assigned-value-books.png)
+![image](/public/images/accountant/assigned-value-books.png)
 
 ---
 
@@ -594,7 +594,7 @@
 
 2. Select a cashier’s report.
 
-![image](./images/accountant/daily-detail-cashiers-report-accountant.png)
+![image](/public/images/accountant/daily-detail-cashiers-report-accountant.png)
 
 ---
 
@@ -606,7 +606,7 @@
 
 2. Select an item.
 
-![image](./images/accountant/summarized-cashiers-report.png)
+![image](/public/images/accountant/summarized-cashiers-report.png)
 
 ---
 
@@ -618,7 +618,7 @@
 
 2. Select a fieldName.
 
-![image](./images/accountant/summary-by-currency.png)
+![image](/public/images/accountant/summary-by-currency.png)
 
 ---
 
@@ -630,7 +630,7 @@
 
 2. Select an item.
 
-![image](./images/accountant/summary-by-payment-mode.png)
+![image](/public/images/accountant/summary-by-payment-mode.png)
 
 ---
 
@@ -644,7 +644,7 @@
 
 3. Click on generate report
 
-![image](./images/accountant/search-revoked-receipts.png)
+![image](/public/images/accountant/search-revoked-receipts.png)
 
 ---
 
@@ -656,7 +656,7 @@
 
 2. Select a fieldName.
 
-![image](./images/accountant/revoked-receipts-by-reason.png)
+![image](/public/images/accountant/revoked-receipts-by-reason.png)
 
 ---
 
@@ -670,7 +670,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/WHT-payments.png)
+![image](/public/images/accountant/WHT-payments.png)
 
 ---
 
@@ -684,7 +684,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/top-100-filings-N-payments.png)
+![image](/public/images/accountant/top-100-filings-N-payments.png)
 
 ---
 
@@ -698,7 +698,7 @@
 
 3. Click on generate report
 
-![image](./images/accountant/taxpayer-receipts.png)
+![image](/public/images/accountant/taxpayer-receipts.png)
 
 ---
 
@@ -712,7 +712,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/taxpayer-receipts-new.png)
+![image](/public/images/accountant/taxpayer-receipts-new.png)
 
 ---
 
@@ -724,7 +724,7 @@
 
 2. Select an item.
 
-![image](./images/accountant/receipts-by-tax-type.png)
+![image](/public/images/accountant/receipts-by-tax-type.png)
 
 ---
 
@@ -738,7 +738,7 @@
 
 3. Click process print
 
-![image](./images/accountant/taxpayer-payments-over-months.png)
+![image](/public/images/accountant/taxpayer-payments-over-months.png)
 
 ---
 
@@ -752,7 +752,7 @@
 
 3. Click process print
 
-![image](./images/accountant/lodgements-vs-payments.png)
+![image](/public/images/accountant/lodgements-vs-payments.png)
 
 ---
 
@@ -766,7 +766,7 @@
 
 3. Click on process print.
 
-![image](./images/accountant/withholding-schedule-and-payments.png)
+![image](/public/images/accountant/withholding-schedule-and-payments.png)
 
 ---
 
@@ -780,7 +780,7 @@
 
 3. Click on process print
 
-![image](./images/accountant/rent-payments.png)
+![image](/public/images/accountant/rent-payments.png)
 
 ---
 
@@ -792,7 +792,7 @@
 
 2. Select an item.
 
-![image](./images/accountant/taxpayers-by-sectors.png)
+![image](/public/images/accountant/taxpayers-by-sectors.png)
 
 ---
 
@@ -806,7 +806,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/statiscian-daily-report.png)
+![image](/public/images/accountant/statiscian-daily-report.png)
 
 ---
 
@@ -820,7 +820,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![image](./images/accountant/accountant-daily-report-accountant-2.png)
+![image](/public/images/accountant/accountant-daily-report-accountant-2.png)
 
 ---
 
@@ -834,7 +834,7 @@
 
 3. Process print.
 
-![image](./images/accountant/top-10-income-tax-payments.png)
+![image](/public/images/accountant/top-10-income-tax-payments.png)
 
 ---
 
@@ -848,7 +848,7 @@
 
 3. Click on process print.
 
-![image](./images/accountant/summary-of-monthly-collection.png)
+![image](/public/images/accountant/summary-of-monthly-collection.png)
 
 ---
 
@@ -862,7 +862,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/monthly-income-tax-of-employees.png)
+![image](/public/images/accountant/monthly-income-tax-of-employees.png)
 
 ---
 
@@ -876,7 +876,7 @@
 
 3. Click process print. 
 
-![image](./images/accountant/monthly-income-tax-f-self-employee-by-sectors.png)
+![image](/public/images/accountant/monthly-income-tax-f-self-employee-by-sectors.png)
 
 ---
 
@@ -890,7 +890,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/miscellaneous-taxes-and-penalties.png)
+![image](/public/images/accountant/miscellaneous-taxes-and-penalties.png)
 
 ---
 
@@ -904,7 +904,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/highest-income-tax-assessments-SR6.png)
+![image](/public/images/accountant/highest-income-tax-assessments-SR6.png)
 
 ---
 
@@ -918,7 +918,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/highest-income-tax-assessments-SR6B.png)
+![image](/public/images/accountant/highest-income-tax-assessments-SR6B.png)
 
 ---
 
@@ -932,7 +932,7 @@
 
 3. Click process print.
 
-![image](./images/accountant/monthly-income-tax-of-newly-opened-files-by-sectors.png)
+![image](/public/images/accountant/monthly-income-tax-of-newly-opened-files-by-sectors.png)
 
 ---
 
@@ -946,7 +946,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/summary-by-tax-type-gra-reports.png)
+![image](/public/images/accountant/summary-by-tax-type-gra-reports.png)
 
 ---
 
@@ -960,7 +960,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/summary-by-tax-payer-type-gra-reports.png)
+![image](/public/images/accountant/summary-by-tax-payer-type-gra-reports.png)
 
 ---
 
@@ -974,7 +974,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/monthly-collection-by-sector.png)
+![image](/public/images/accountant/monthly-collection-by-sector.png)
 
 ---
 
@@ -988,7 +988,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/collection-by-year-of-assessment.png)
+![image](/public/images/accountant/collection-by-year-of-assessment.png)
 
 ---
 
@@ -1002,7 +1002,7 @@
 
 3. Click on Process Print
 
-![image](./images/accountant/collection-by-year-of-assessment-detail.png)
+![image](/public/images/accountant/collection-by-year-of-assessment-detail.png)
 
 ---
 
@@ -1014,7 +1014,7 @@
 
 2. Select fieldname.
 
-![image](./images/accountant/foreign-currencies.png)
+![image](/public/images/accountant/foreign-currencies.png)
 
 ---
 
@@ -1030,7 +1030,7 @@
 
 4. Click view ICMUS Data.
 
-![image](./images/accountant/report-imports-and-exports-data.png)
+![image](/public/images/accountant/report-imports-and-exports-data.png)
 
 ---
 
@@ -1044,7 +1044,7 @@
 
 3. Click on Save.
 
-![image](./images/accountant/file-a-complaint-gitmis-issues.png)
+![image](/public/images/accountant/file-a-complaint-gitmis-issues.png)
 
 ---
 
@@ -1056,5 +1056,5 @@
 
 2. The complaints made will be displayed.
 
-![image](./images/accountant/to-view-your-complaints.png)
+![image](/public/images/accountant/to-view-your-complaints.png)
 

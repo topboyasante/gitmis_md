@@ -12,7 +12,7 @@
 
 2. Click on Reset Password and follow the prompt to create a new one.
 
-![Image](./images/excise-unit/TO-LOG-IN-AS-EXCISE-UNIT.png)
+![Image](/public/images/excise-unit/TO-LOG-IN-AS-EXCISE-UNIT.png)
 
 ---
 
@@ -28,7 +28,7 @@
 
 <font color="red">After resetting your password, return to the GITMIS 3 Login page and log in with your new password.</font>
 
-![Image](./images/excise-unit/password-reset.png)
+![Image](/public/images/excise-unit/password-reset.png)
 
 ---
 
@@ -44,7 +44,7 @@
 
 <font color="red">This will grant you access to the taxpayer's ledger for viewing and management.</font>
 
-![Image](./images/excise-unit/to-access-a-taxpayers-ledger.png)
+![Image](/public/images/excise-unit/to-access-a-taxpayers-ledger.png)
 
 ---
 
@@ -60,7 +60,7 @@
 
 4. Click on the Taxpayer information to access the next page.
 
-![Image](./images/excise-unit/view-taxpayer-information.png)
+![Image](/public/images/excise-unit/view-taxpayer-information.png)
 
 ---
 
@@ -80,7 +80,7 @@
 </ol>
 </font>
 
-![Image](./images/excise-unit/open-taxpayer-folder.png)
+![Image](/public/images/excise-unit/open-taxpayer-folder.png)
 
 ---
 
@@ -96,7 +96,7 @@ Click on view Taxpayer Details
 
 3. Click on the Taxpayer information to go to the next page.
 
-![Image](./images/excise-unit/to-view-taxpayer-detail.png)
+![Image](/public/images/excise-unit/to-view-taxpayer-detail.png)
 
 ---
 
@@ -110,7 +110,7 @@ Click on view Taxpayer Details
 
 This section shows the previous action and the next processing action.
 
-![Image](./images/excise-unit/to-view-taxpayer-detail-2.png)
+![Image](/public/images/excise-unit/to-view-taxpayer-detail-2.png)
 
 ---
 
@@ -124,7 +124,7 @@ Click on search taxpayer
 
 2. Click on Record Search to proceed to the next page.
 
-![Image](./images/excise-unit/search-taxpayer.png)
+![Image](/public/images/excise-unit/search-taxpayer.png)
 
 ---
 
@@ -142,7 +142,7 @@ Click on search taxpayer
 Search Receipt (GITMIS 3): This option utilizes data directly from GITMIS 3.
 </font>
 
-![Image](./images/excise-unit/search-receipts.png)
+![Image](/public/images/excise-unit/search-receipts.png)
 
 ---
 
@@ -152,7 +152,7 @@ Search Receipt (GITMIS 3): This option utilizes data directly from GITMIS 3.
 
 1. At the next page, click on the Printer Icon / Button to Print the Receipt.
 
-![Image](./images/excise-unit/search-receipts-2.png)
+![Image](/public/images/excise-unit/search-receipts-2.png)
 
 ---
 
@@ -168,7 +168,7 @@ Search Receipt (GITMIS 3): This option utilizes data directly from GITMIS 3.
 
 5. This is the out-of-taxpayer payment receipt.
 
-![Image](./images/excise-unit/receipt-information.png)
+![Image](/public/images/excise-unit/receipt-information.png)
 
 ---
 
@@ -190,7 +190,7 @@ Search Receipt (GITMIS 3): This option utilizes data directly from GITMIS 3.
 
 <font color="red">NB: The officer can also file returns by clicking on Redbox to open the filing form and check the filing compliance score as well</font>
 
-![Image](./images/excise-unit/manage-returns-1.png)
+![Image](/public/images/excise-unit/manage-returns-1.png)
 
 ---
 
@@ -204,7 +204,7 @@ Search Receipt (GITMIS 3): This option utilizes data directly from GITMIS 3.
 
 This section shows the Returns that have been lodged in the system of both(GITMIS and the Taxpayer Portal) 
 
-![Image](./images/excise-unit/manage-returns-2.png)
+![Image](/public/images/excise-unit/manage-returns-2.png)
 
 ---
 
@@ -218,7 +218,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 3. Click on Record Search.
 
-![Image](./images/excise-unit/to-search-a-taxpayers-returns.png)
+![Image](/public/images/excise-unit/to-search-a-taxpayers-returns.png)
 
 ---
 
@@ -236,7 +236,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 5. This is the outcome of the report.
 
-![Image](./images/excise-unit/to-search-a-gh-gov-payments.png)
+![Image](/public/images/excise-unit/to-search-a-gh-gov-payments.png)
 
 ---
 
@@ -251,7 +251,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is an outcome of the report by Tax Type.
 
-![Image](./images/excise-unit/to-search-for-a-gh-gov-payment-summary-by-tax-type.png)
+![Image](/public/images/excise-unit/to-search-for-a-gh-gov-payment-summary-by-tax-type.png)
 
 ---
 
@@ -267,7 +267,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is an outcome of the report by Tax Type
 
-![Image](./images/excise-unit/to-search-for-a-revenue-by-tax-office.png)
+![Image](/public/images/excise-unit/to-search-for-a-revenue-by-tax-office.png)
 
 ---
 
@@ -285,7 +285,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 5. This is the outcome of the report
 
-![Image](./images/excise-unit/to-search-for-an-accountant-daily-report.png)
+![Image](/public/images/excise-unit/to-search-for-an-accountant-daily-report.png)
 
 ---
 
@@ -305,7 +305,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 <font color="red">NB: Click on the process print without selecting the date period.</font>
 
-![Image](./images/excise-unit/to-search-for-receipts-by-month-for-tax-types.png)
+![Image](/public/images/excise-unit/to-search-for-receipts-by-month-for-tax-types.png)
 
 ---
 
@@ -321,7 +321,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. Click on process print to generate the report.
 
-![Image](./images/excise-unit/to-search-for-collection-summary-by-tax-types.png)
+![Image](/public/images/excise-unit/to-search-for-collection-summary-by-tax-types.png)
 
 ---
 
@@ -337,7 +337,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the report.
 
-![Image](./images/excise-unit/to-search-for-taxpayer-payment-over-a-month.png)
+![Image](/public/images/excise-unit/to-search-for-taxpayer-payment-over-a-month.png)
 
 ---
 
@@ -353,7 +353,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the report.
 
-![Image](./images/excise-unit/to-search-for-taxpayer-lodgment-vs-payment.png)
+![Image](/public/images/excise-unit/to-search-for-taxpayer-lodgment-vs-payment.png)
 
 ---
 
@@ -369,7 +369,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the result.
 
-![Image](./images/excise-unit/top-hundred-lodgement.png)
+![Image](/public/images/excise-unit/top-hundred-lodgement.png)
 
 ---
 
@@ -383,7 +383,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 3. Click on the process print.
 
-![Image](./images/excise-unit/processed-return-report.png)
+![Image](/public/images/excise-unit/processed-return-report.png)
 
 ---
 
@@ -399,7 +399,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of result. 
 
-![Image](./images/excise-unit/processed-returns-report-by-tax-type.png)
+![Image](/public/images/excise-unit/processed-returns-report-by-tax-type.png)
 
 ---
 
@@ -415,7 +415,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the report.
 
-![Image](./images/excise-unit/no-filers.png)
+![Image](/public/images/excise-unit/no-filers.png)
 
 ---
 
@@ -431,7 +431,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. The processed print.
 
-![Image](./images/excise-unit/credit-filers.png)
+![Image](/public/images/excise-unit/credit-filers.png)
 
 ---
 
@@ -447,7 +447,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the report
 
-![Image](./images/excise-unit/late-filers.png)
+![Image](/public/images/excise-unit/late-filers.png)
 
 ---
 
@@ -461,7 +461,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 3. Click on Process Print. The results is displayed.
 
-![Image](./images/excise-unit/summary-of-returns.png)
+![Image](/public/images/excise-unit/summary-of-returns.png)
 
 ---
 
@@ -477,7 +477,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is the outcome of the report.
 
-![Image](./images/excise-unit/to-search-for-taxpayers-tax-type.png)
+![Image](/public/images/excise-unit/to-search-for-taxpayers-tax-type.png)
 
 ---
 
@@ -489,7 +489,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 2. This is the outcome of the report.
 
-![Image](./images/excise-unit/to-search-taxpayer-list-summary.png)
+![Image](/public/images/excise-unit/to-search-taxpayer-list-summary.png)
 
 ---
 
@@ -505,7 +505,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 4. This is an outcome of the report by Tax Type.
 
-![Image](./images/excise-unit/to-search-taxpayer-master-list.png)
+![Image](/public/images/excise-unit/to-search-taxpayer-master-list.png)
 
 ---
 
@@ -519,7 +519,7 @@ This section shows the Returns that have been lodged in the system of both(GITMI
 
 3. Save.
 
-![Image](./images/excise-unit/add-complaint.png)
+![Image](/public/images/excise-unit/add-complaint.png)
 
 
 
