@@ -11,7 +11,7 @@
 
 1.  Click **Reset Password** and follow the prompts to create a new one.
 
-![](/public/images/head-office/234db7df4a6e5d1a894fb1d5a507035.png)
+![](/images/head-office/234db7df4a6e5d1a894fb1d5a507035.png)
 
 ---
 # PASSWORD RESET  
@@ -25,7 +25,7 @@
 <p style="color:red; text-align:left;"> After resetting your password, return to the GITMIS 3 Login page and log in
     with your new password.
 
-![](/public/images/head-office/a7ce3d53a3ce20fe96ed8787cefa95a2.png)
+![](/images/head-office/a7ce3d53a3ce20fe96ed8787cefa95a2.png)
 ---
 # TAXPAYER MANAGEMENT
 
@@ -36,13 +36,13 @@
 
 2.  Click on **Open Taxpayer Ledger**
 
-![](/public/images/head-office/b6a3e7bd2b33e8a53764d21d8556aee0.png)
+![](/images/head-office/b6a3e7bd2b33e8a53764d21d8556aee0.png)
 
 1.  Select the relevant Tax Type and Assessment Year.  
 <p style="color:red; text-align:left;"> This will grant you access to the taxpayer's ledger for viewing and
     management.
 
-![](/public/images/head-office/27c8c973e61cb1ddeec66985643f2c37.png)
+![](/images/head-office/27c8c973e61cb1ddeec66985643f2c37.png)
 ---
 ### Open Taxpayer Folder
 
@@ -52,13 +52,13 @@
 
 3.  Click details to open the folder
 
-![](/public/images/head-office/fcb42147a74cf4eca13fb30443d50359.png)
+![](/images/head-office/fcb42147a74cf4eca13fb30443d50359.png)
 
 1.  The details of the Taxpayer displays.
 
 2.  The next processing action of the Taxpayer populates.
 
-![](/public/images/head-office/296cbdc6ddeccfa1eff3941d06a1db69.png)
+![](/images/head-office/296cbdc6ddeccfa1eff3941d06a1db69.png)
 
 ---
 
@@ -70,13 +70,13 @@
 
 3.  Click on the details to view the details of the taxpayer.
 
-![](/public/images/head-office/5b6f4f5b6364debdb10c37c2a7b6f84a.png)
+![](/images/head-office/5b6f4f5b6364debdb10c37c2a7b6f84a.png)
 
 1.  The details of the Taxpayer displays.
 
     1.  The previous actions of the Taxpayer populates.
 
-    ![](/public/images/head-office/8924cd99353d9264a7ca764fe38acfc4.png)
+    ![](/images/head-office/8924cd99353d9264a7ca764fe38acfc4.png)
 ---
 ### Search Generated TIN
 
@@ -88,7 +88,7 @@
 
 4.  The Search results are displayed.
 
-![](/public/images/head-office/1dc2d821cf7a9ec7ffca9a7b5d0b97dc.png)
+![](/images/head-office/1dc2d821cf7a9ec7ffca9a7b5d0b97dc.png)
 ---
 ### Search for a Taxpayer
 
@@ -97,7 +97,7 @@
 
 2.  Click on Record Search.
 
-![](/public/images/head-office/3a2ac8fd7c486f95c3daa123fbb4b2d2.png)
+![](/images/head-office/3a2ac8fd7c486f95c3daa123fbb4b2d2.png)
 
 ---
 
@@ -111,7 +111,7 @@
 
 4.  Click on any result to open the folder.
 
-![](/public/images/head-office/2e7041385a0fe7ae384a974039a2814f.png)
+![](/images/head-office/2e7041385a0fe7ae384a974039a2814f.png)
 ---
 # Taxpayer Returns
 
@@ -121,7 +121,7 @@
 
 2.  Fill the fields and Click **Record Search**
 
-![](/public/images/head-office/a421c4abac396cb23057daa6b6edef26.png)
+![](/images/head-office/a421c4abac396cb23057daa6b6edef26.png)
 ---
 ### Manage Returns
 
@@ -136,7 +136,7 @@
 
 5.  You can Register New Tax Type
 
-![](/public/images/head-office/91a4aa055c1645caa9458a43a46dbf98.png)
+![](/images/head-office/91a4aa055c1645caa9458a43a46dbf98.png)
 
 ---
 
@@ -150,11 +150,11 @@
 2.  Fill in any of the fields  
     and click **Record Search**
 
-![](/public/images/head-office/266838d7e7dbe26ee80bac3c158edf13.png)
+![](/images/head-office/266838d7e7dbe26ee80bac3c158edf13.png)
 
 The details of the searched receipt will populate
 
-![](/public/images/head-office/741f5909b863800d391444dfb33a978e.png)
+![](/images/head-office/741f5909b863800d391444dfb33a978e.png)
 
 ---
 
@@ -164,7 +164,7 @@ The details of the searched receipt will populate
 
 2.  Input **Invoice Number** or **Tax Bill ID** and Click **Process Print**
 
-![](/public/images/head-office/5afc684aa924ce258a378206a8e386ba.png)
+![](/images/head-office/5afc684aa924ce258a378206a8e386ba.png)
 
 ---
 
@@ -180,7 +180,7 @@ The details of the searched receipt will populate
 4.  Click '+ADD NEW ROW' to insert additional row.
 </p>
 
-![](/public/images/head-office/7a06d05c20aebda14fba0bf43c81bac0.png)
+![](/images/head-office/7a06d05c20aebda14fba0bf43c81bac0.png)
 
 # TAX BILL  
 ### Under the Taxbill menu:
@@ -191,7 +191,7 @@ The details of the searched receipt will populate
 
 3.  Click on record search.
 
-![](/public/images/head-office/23dd2a2ec2669addaebd5e85e2354a04.png)
+![](/images/head-office/23dd2a2ec2669addaebd5e85e2354a04.png)
 
 ## TAX BILL PRINT OUT
 ### The generated Bill shows:
@@ -216,7 +216,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/7fa60bab0f639cbf23b0a6e7c4a58602.png)
+![](/images/head-office/7fa60bab0f639cbf23b0a6e7c4a58602.png)
 
 ### E-Levy Pending Bills
 
@@ -224,7 +224,7 @@ The details of the searched receipt will populate
 2.  Select the **Bill Generated From Date** and **Date To**
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/ce46ed1dda2b7e60fcc4b2de1f83eff6.png)
+![](/images/head-office/ce46ed1dda2b7e60fcc4b2de1f83eff6.png)
 
 ### Tax Audit Status
 
@@ -234,7 +234,7 @@ The details of the searched receipt will populate
 
 3.  The results is displayed.
 
-![](/public/images/head-office/9d1075ad1e9b9780f108e4658bcb724c.png)
+![](/images/head-office/9d1075ad1e9b9780f108e4658bcb724c.png)
 
 ### Top 100 Taxpayers Report
 
@@ -244,7 +244,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/43517405df8b187067d91a878a480076.png)
+![](/images/head-office/43517405df8b187067d91a878a480076.png)
 
 ### Ghana Gov Payments
 
@@ -254,7 +254,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The Result is displayed.
 
-![](/public/images/head-office/ff2879ee85c93e865dcb70ec5282957d.png)
+![](/images/head-office/ff2879ee85c93e865dcb70ec5282957d.png)
 
 ### Ghana Gov Payment Summary by Tax Type
 
@@ -264,7 +264,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/42ce953ca71f6ed786a3921984da1cda.png)
+![](/images/head-office/42ce953ca71f6ed786a3921984da1cda.png)
 
 ### Top 100 Payments
 
@@ -274,7 +274,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/52d55e9f3d9f7976949ea0f7713cfb9a.png)
+![](/images/head-office/52d55e9f3d9f7976949ea0f7713cfb9a.png)
 
 ### Revenue by Tax Office
 
@@ -284,7 +284,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/81e49ed779bb3da88bb591f7dcec97e6.png)
+![](/images/head-office/81e49ed779bb3da88bb591f7dcec97e6.png)
 
 ### Accountant Daily Report
 
@@ -294,7 +294,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/b7919daecf18cab98ad922facfeaaea0.png)
+![](/images/head-office/b7919daecf18cab98ad922facfeaaea0.png)
 
 ### Receipt by Months for Tax Types
 
@@ -305,7 +305,7 @@ The details of the searched receipt will populate
 3.  Select **Tax type** and Click on **Process Print**. The results is
     displayed.
 
-![](/public/images/head-office/3f6113ff0d910b6375724e6e9581f61a.png)
+![](/images/head-office/3f6113ff0d910b6375724e6e9581f61a.png)
 
 ### Lodgments vs Payments Reports:
 
@@ -313,7 +313,7 @@ The details of the searched receipt will populate
 
 2.  Fill in the details and Click on **Process Print**.
 
-![](/public/images/head-office/8a0845577ec0b6388c52759f4da39ae7.png)
+![](/images/head-office/8a0845577ec0b6388c52759f4da39ae7.png)
 
 ### Gh.Gov Receipts
 
@@ -323,7 +323,7 @@ The details of the searched receipt will populate
 
 3.  Click **Process Print**. The results is displayed
 
-![](/public/images/head-office/b2951e07baa83c793a9da31ed4ce082d.png)
+![](/images/head-office/b2951e07baa83c793a9da31ed4ce082d.png)
 
 ### Gh.Gov Receipts (Invoice Summary)
 
@@ -333,7 +333,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/750cd6e3a96cdc50163f78dee2282eda.png)
+![](/images/head-office/750cd6e3a96cdc50163f78dee2282eda.png)
 
 ### Gh.Gov Receipts by Branch, Tax Type
 
@@ -343,7 +343,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/eb7dbbfada57e82ac33ecb1213a5b908.png)
+![](/images/head-office/eb7dbbfada57e82ac33ecb1213a5b908.png)
 
 ### Gh.Gov Receipts by Tax Type
 
@@ -353,7 +353,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/e940a22a419bd5c4a068bf5329d2961a.png)
+![](/images/head-office/e940a22a419bd5c4a068bf5329d2961a.png)
 
 ### Gaming Payments
 
@@ -363,7 +363,7 @@ The details of the searched receipt will populate
 
 3.  The results is displayed.
 
-![](/public/images/head-office/f802da4ac2ce941b3b8cd56454080c05.png)
+![](/images/head-office/f802da4ac2ce941b3b8cd56454080c05.png)
 
 ### Gaming Taxpayers Report
 
@@ -373,7 +373,7 @@ The details of the searched receipt will populate
 
 3.  Select Tax type and Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/c2ce28207d810a19a6fa38b28468713d.png)
+![](/images/head-office/c2ce28207d810a19a6fa38b28468713d.png)
 
 ### Freezones Taxpayers Report
 
@@ -383,7 +383,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/4c5ef760bc607f66d83d36f6bcf0e55e.png)
+![](/images/head-office/4c5ef760bc607f66d83d36f6bcf0e55e.png)
 
 ### Payment of Specified Entities
 
@@ -393,7 +393,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/cf216e5530afec3ab14eca4bab4a69e2.png)
+![](/images/head-office/cf216e5530afec3ab14eca4bab4a69e2.png)
 
 ### Chart of Account
 
@@ -403,7 +403,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/230852c16699ca887dbed2a655cd9423.png)
+![](/images/head-office/230852c16699ca887dbed2a655cd9423.png)
 
 ### Portal Statistics
 
@@ -414,7 +414,7 @@ The details of the searched receipt will populate
 
 3.  The results is displayed.
 
-![](/public/images/head-office/3601dd41f751033c49a79d6139aa4c0d.png)
+![](/images/head-office/3601dd41f751033c49a79d6139aa4c0d.png)
 
 ### To view a CIT/PIT Filing Report:
 
@@ -424,7 +424,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/5411b912c7d77724077f5b188b3cfd35.png)
+![](/images/head-office/5411b912c7d77724077f5b188b3cfd35.png)
 
 ### Provisional Assessment Report
 
@@ -435,7 +435,7 @@ The details of the searched receipt will populate
 
 3.  The results is displayed.
 
-![](/public/images/head-office/3601dd41f751033c49a79d6139aa4c0d.png)
+![](/images/head-office/3601dd41f751033c49a79d6139aa4c0d.png)
 
 ### Top 100 Lodgments
 
@@ -445,7 +445,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is
 
-![](/public/images/head-office/8a0cee80425acc80315064b9ba7681c4.png)
+![](/images/head-office/8a0cee80425acc80315064b9ba7681c4.png)
 
 ### Processed Returns by Tax Type
 
@@ -455,7 +455,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/8c7bad635cd7b0afce59addb38c4390c.png)
+![](/images/head-office/8c7bad635cd7b0afce59addb38c4390c.png)
 
 ### Stop Filers
 
@@ -465,7 +465,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/7f26815e42083c83855943f9b91f83f1.png)
+![](/images/head-office/7f26815e42083c83855943f9b91f83f1.png)
 
 ### Non Filers
 
@@ -475,7 +475,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/3d7d28252027f0f358535263d2f7adc4.png)
+![](/images/head-office/3d7d28252027f0f358535263d2f7adc4.png)
 
 ### Nil Filers
 
@@ -485,7 +485,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/9b8423a941a0a30a568560842d8164c3.png)
+![](/images/head-office/9b8423a941a0a30a568560842d8164c3.png)
 
 ### Credit Filers
 
@@ -495,7 +495,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/a952a60b71281f66cc75e7024a09a5a7.png)
+![](/images/head-office/a952a60b71281f66cc75e7024a09a5a7.png)
 
 ### Late Filers
 
@@ -505,7 +505,7 @@ The details of the searched receipt will populate
 
 3.  Click on Process Print. The results is displayed.
 
-![](/public/images/head-office/d16614b0eb13fac84f5473a2c038da7b.png)
+![](/images/head-office/d16614b0eb13fac84f5473a2c038da7b.png)
 
 ### Summary of Returns
 
@@ -515,7 +515,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed
 
-![](/public/images/head-office/884f95204b435b64917e034841dbef39.png)
+![](/images/head-office/884f95204b435b64917e034841dbef39.png)
 
 ### Assessment with Objection
 
@@ -523,7 +523,7 @@ The details of the searched receipt will populate
 
 2.  The results is displayed.
 
-![](/public/images/head-office/99f3b51a4f4bb1d70c0d5bcdeb29a326.png)
+![](/images/head-office/99f3b51a4f4bb1d70c0d5bcdeb29a326.png)
 
 ### Taxpayers with Concessions
 
@@ -533,14 +533,14 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/adfa2ca04d5109ee37333c84b1c86c8e.png)
+![](/images/head-office/adfa2ca04d5109ee37333c84b1c86c8e.png)
 
 ### Taxpayers Master List
 
 1.  Click on **Taxpayers Master List**. The list will be displayed. It can be
     filtered using the dropdowns or search bar
 
-![](/public/images/head-office/586387efb3a101a249004326c636b64f.png)
+![](/images/head-office/586387efb3a101a249004326c636b64f.png)
 
 ### Registered Tax Types
 
@@ -550,7 +550,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**. The results is displayed.
 
-![](/public/images/head-office/10c6b340b68d1e0e52bf7342197760a3.png)
+![](/images/head-office/10c6b340b68d1e0e52bf7342197760a3.png)
 
 ### Newly Registered Taxpayers
 
@@ -560,7 +560,7 @@ The details of the searched receipt will populate
 
 3.  Click on **Process Print**
 
-![](/public/images/head-office/5e5e8fa4c61fc8dc577316aaa78fcbf4.png)
+![](/images/head-office/5e5e8fa4c61fc8dc577316aaa78fcbf4.png)
 
 ### Taxpayer List by Tax Type
 
