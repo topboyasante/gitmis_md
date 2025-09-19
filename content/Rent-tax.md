@@ -12,7 +12,7 @@
 
 2. Click on Reset Password and follow the prompt to create a new one.
 
-![TO LOG IN AS A RENT, TAX AND VALUATION UNIT](./images/rent-tax/rent-tax-login.jpg)
+![TO LOG IN AS A RENT, TAX AND VALUATION UNIT](/public/images/rent-tax/rent-tax-login.jpg)
 
 ---
 
@@ -28,7 +28,7 @@
 
 <font color="red">After resetting your password, return to the GITMIS 3 Login page and log in with your new password.</font>
 
-![Image](./images/rent-tax/to-reset-your-account.jpg)
+![Image](/public/images/rent-tax/to-reset-your-account.jpg)
 
 ---
 
@@ -45,7 +45,7 @@
 <font color="red">This will grant you access to the taxpayer's ledger for viewing and management.
 </font>
 
-![Image](./images/rent-tax/open-taxpayer-ledger.png)
+![Image](/public/images/rent-tax/open-taxpayer-ledger.png)
 
 ---
 
@@ -59,7 +59,7 @@
 
 3. Click on the details to open the folder.
 
-![Image](./images/rent-tax/to-open-taxpayers-folder.png)
+![Image](/public/images/rent-tax/to-open-taxpayers-folder.png)
 
 ---
 
@@ -69,7 +69,7 @@
 
 2. The previous actions of the Taxpayer populates.
 
-![Image](./images/rent-tax/taxpayer-management.jpg)
+![Image](/public/images/rent-tax/taxpayer-management.jpg)
 
 ---
 
@@ -83,7 +83,7 @@
 
 3. Click on the details to view the details of the taxpayer.
 
-![Image](./images/rent-tax/view-taxpayers-details.jpg)
+![Image](/public/images/rent-tax/view-taxpayers-details.jpg)
 
 ---
 
@@ -93,7 +93,7 @@
 
 2. The previous actions of the Taxpayer populates.
 
-![Image](./images/rent-tax/taxpayer-management-1.jpg)
+![Image](/public/images/rent-tax/taxpayer-management-1.jpg)
 
 ---
 
@@ -105,7 +105,7 @@
 
 2. Click on Record Search.
 
-![Image](./images/rent-tax/to-open-search-for-a-taxpayer.jpg)
+![Image](/public/images/rent-tax/to-open-search-for-a-taxpayer.jpg)
 
 ---
 
@@ -117,7 +117,7 @@
 
 2. Fill the fields and click record search.
 
-![Image](./images/rent-tax/to-search-for-taxpayers-return.jpg)
+![Image](/public/images/rent-tax/to-search-for-taxpayers-return.jpg)
 
 ---
 
@@ -135,7 +135,7 @@
 
 5. You can Register New Tax Type.
 
-![Image](./images/rent-tax/to-manage-taxpayers-return.jpg)
+![Image](/public/images/rent-tax/to-manage-taxpayers-return.jpg)
 
 ---
 
@@ -151,7 +151,7 @@
 
 <font color="red">4. Click '+ADD NEW ROW' to insert additional row</font>
 
-![Image](./images/rent-tax/issue-tax-bill.png)
+![Image](/public/images/rent-tax/issue-tax-bill.png)
 
 ---
 
@@ -165,7 +165,7 @@
 
 3. Click on record search.
 
-![Image](./images/rent-tax/under-the-taxbill-menu.jpg)
+![Image](/public/images/rent-tax/under-the-taxbill-menu.jpg)
 
 ---
 
@@ -181,7 +181,7 @@
 
 <font color="color">It also shows the Signature of the Commissioner-General of the GRA</font>
 
-![Image](./images/rent-tax/the-generated-tax-bill-shows.jpg)
+![Image](/public/images/rent-tax/the-generated-tax-bill-shows.jpg)
 
 ---
 
@@ -193,7 +193,7 @@
 
 2. Fill any of the fields and click record search.
 
-![Image](./images/rent-tax/to-search-for-taxpayers-receipts.jpg)
+![Image](/public/images/rent-tax/to-search-for-taxpayers-receipts.jpg)
 
 ---
 
@@ -205,7 +205,7 @@
 
 2. Fill any of the fields and click record search.
 
-![Image](./images/rent-tax/to-search-for-taxpayers-receipts.jpg)
+![Image](/public/images/rent-tax/to-search-for-taxpayers-receipts.jpg)
 
 ---
 
@@ -215,7 +215,7 @@
 
 1. The details of the searched receipt will populate.
 
-![Image](./images/rent-tax/to-search-for-taxpayers-receipts-2.jpg)
+![Image](/public/images/rent-tax/to-search-for-taxpayers-receipts-2.jpg)
 
 ---
 
@@ -227,7 +227,7 @@
 
 2. Input the Invoice Number or Tax bill ID and click Process Print.
 
-![Image](./images/rent-tax/search-GGOV-invoice.jpg)
+![Image](/public/images/rent-tax/search-GGOV-invoice.jpg)
 
 ---
 
@@ -241,7 +241,7 @@
 
 3. Enter the Ghana Card Number/TIN and click on the Search button.
 
-![Image](./images/rent-tax/search-for-ghana-card.jpg)
+![Image](/public/images/rent-tax/search-for-ghana-card.jpg)
 
 ---
 
@@ -259,7 +259,7 @@
 
 5. You can filter can by search and tax office.
 
-![Image](./images/rent-tax/withholding-rent-filing-report.png)
+![Image](/public/images/rent-tax/withholding-rent-filing-report.png)
 
 ---
 
@@ -279,7 +279,7 @@
 
 6. Click to view the details of the report.
 
-![Image](./images/rent-tax/rent-tax-report.png)
+![Image](/public/images/rent-tax/rent-tax-report.png)
 
 ---
 
@@ -293,7 +293,7 @@
 
 3. Click on view Details to see the details of the report.
 
-![Image](./images/rent-tax/valuation-unit-report.png)
+![Image](/public/images/rent-tax/valuation-unit-report.png)
 
 ---
 
@@ -311,7 +311,7 @@
 
 5. You can filter can by search and tax office.
 
-![Image](./images/rent-tax/ghana-gov-payments.png)
+![Image](/public/images/rent-tax/ghana-gov-payments.png)
 
 ---
 
@@ -325,7 +325,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![Image](./images/rent-tax/ghana-gov-payment-summary-by-tax-type.png)
+![Image](/public/images/rent-tax/ghana-gov-payment-summary-by-tax-type.png)
 
 ---
 
@@ -339,7 +339,7 @@
 
 3. Click on Process Print. The results is displayed.
 
-![Image](./images/rent-tax/to-view-taxpayers-receipts.png)
+![Image](/public/images/rent-tax/to-view-taxpayers-receipts.png)
 
 ---
 
@@ -351,4 +351,4 @@
 
 2. Fill in the details and Click on Process Print.
 
-![Image](./images/rent-tax/lodgments-vs-payments-report.png)
+![Image](/public/images/rent-tax/lodgments-vs-payments-report.png)
