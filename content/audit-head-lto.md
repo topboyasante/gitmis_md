@@ -9,7 +9,7 @@
     Click on **Reset Password** and follow the prompt to create a new one.
 
   
-    ![Image](/content/images/audit-head-lto/DEFAULT%201.png)
+    ![Image](./images/audit-head-lto/DEFAULT%201.png)
 
 ---
 
@@ -20,7 +20,7 @@
    Check your GRA email for a verification email and follow the instructions to reset your password.
    2. Click on **Return to login Page**.
    
-   ![Image](/content/images/audit-head-lto/DEFAULT%202.png)
+   ![Image](./images/audit-head-lto/DEFAULT%202.png)
 
           After resetting your password return to the GITMIS 3 Login page and log in with your new password.
    
@@ -32,7 +32,7 @@
    1. Select any of the Buttons to complete the next processing action
    2. Click on **Clean a Taxpayer**, fill in the Taxpayer Identification Number and click on **Process Print** .
    
-   ![Image](/content/images/audit-head-lto%201.png)   
+   ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%201.png)   
   
           Access to the Taxpayer Data Cleansing and Clean a Taxpayer menu is restricted. You must be explicitly authorized by the GRA Head Office IT Unit to use these features.
 
@@ -46,14 +46,14 @@
     3. Click on the **search Taxpayer** and it will move to the next page
     4. Click on the **Taxpayer** and it will move to the next page
    
-   ![Image](/content/images/audit-head-lto%202.png)
+   ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%202.png)
     
   ---
   #### **Taxpayer information :**
 
   1. This page provides general  information on the taxpayer and action that needs to be taken.
   
-  ![Image](/content/images/audit-head-lto%203.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%203.png)
     
          Click on Open Entry Form to view any Taxpayer’s information, such as the mobile number and email address, etc.
 
@@ -64,7 +64,7 @@
   4. Click on **Add New Case** to create a new case.
   5. Click on **the pending case** to open the next page.
   
-  ![Image](/content/images/audit-head-lto%204.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%204.png)
   
    
   This section provides comprehensive taxpayer information.
@@ -80,7 +80,7 @@
   1. Click on **the New Registration listing**.
   2. Select the year in the box and click on the particular year to view the new taxpayer information.  
   
-  ![Image](/content/images/audit-head-lto%206.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%206.png)
   
          A pending list of requested tax types due for registration or cancellation is also made available in GITMIS 3 for tax officers to access easily. 
          A further breakdown of the pending list according to months, years, and counts is made accessible.
@@ -92,7 +92,7 @@
   2. Enter the Taxpayer’s requirement provided in the form.
   3. Click on the **Search Taxpayer**.
   
-  ![Image](/content/images/audit-head-lto%207.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%207.png)
   
 ---
    
@@ -105,7 +105,7 @@
   3. Enter the Ghana card identification Number / Tin Number.
   4. Click on **Search**
   
-  ![Image](/content/images/audit-head-lto%208.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%208.png)
   
 ---
 * ### SEARCH RETURNS
@@ -115,7 +115,7 @@
   2. Enter information in any of the search parameters provided.
   3. Click on Record Search.
   
-  ![Image](/content/images/audit-head-lto%209.png) 
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%209.png) 
   
 ---
 
@@ -130,7 +130,7 @@
   5. Click to **register a New Tax Type**
   6. Click on the period to view the details of the returns for that month.
    
-  ![Image](/content/images/audit-head-lto%2010.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2010.png)
   
   Clicking on Redbox to open the filing form and check the filing compliance score as well
 
@@ -142,7 +142,7 @@
    
    2. Click on **lodge additional return**, and lodge the  return.
    
-   ![Image](/content/images/audit-head-lto%2011.png)
+   ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2011.png)
    
       This section shows the number of Dec 2023 PAYE Returns that have been lodged in the system(GITMIS and Portal) 
    
@@ -157,7 +157,7 @@
        * Create case and view details.
     2. The next processing action provides a general view of the action being done on the taxpayer and yet to be done.
    
-   ![Image](/content/images/audit-head-lto%2012.png)
+   ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2012.png)
    
    
 ---
@@ -167,12 +167,12 @@
   #### **Select My Reviews:**
     1. The reviews will be displayed at the right side of the screen if any.
   
-  ![Image](/content/images/audit-head-lto%2013.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2013.png)
    ---
    #### **Select My  QA Queries :**
    1. The queries will be displayed at the right side of the screen if any. 
    
-   ![Image](/content/images/audit-head-lto%2014.png)
+   ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2014.png)
 ---
 * ### CASE MANAGEMENT
   ---
@@ -183,7 +183,7 @@
   3. Click **Add a new case** to create a case
   4. Click on the **pending case** to work with the case.
   
-  ![Image](/content/images/audit-head-lto%2015.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2015.png)
 
    ---
   #### **Manage Case :**
@@ -193,7 +193,7 @@
    4. click on **Add New Case** to create a new case.
    5. Click on the **pending case**, to move to the next page.
   
-  ![Image](/content/images/audit-head-lto%2016.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2016.png)
    
    ---
   #### **Add a new Case :** 
@@ -202,7 +202,7 @@
   2. Enter the requirement provided in the form and click on the drop-down option to select.
   3. Click on **save** .
   
-  ![Image](/content/images/audit-head-lto%2017.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2017.png)
 
 ---  
 * ### TAX AUDIT STATUS  
@@ -211,7 +211,7 @@
   1. Click on **Tax Audit Status**.
   2. Select a Tax office and a Risk Band.
  
-  ![Image](/content/images/audit-head-lto%2018.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2018.png)
 ---
 
 * ### AUDIT PLANNING 
@@ -220,7 +220,7 @@
    1. Click on **New Tax Audit listing** .
    2. Scroll  Select the year in the box and click on the particular year to view the new taxpayer  tax Audit plans.
   
-  ![Image](/content/images/audit-head-lto%2019.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2019.png)
    ---
   #### **View Manage Tax Audit :**
    Select **Audit  planning**.
@@ -229,11 +229,11 @@
    3. Click on **Search  Audit Plan** to open the next page.
    4. Click on the **green word** on the table to open the next page.
   
-  ![Image](/content/images/audit-head-lto%2020.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2020.png)
    ---
   #### **View Manage Tax Audit :**
   This section provides comprehensive Audit pieces of information on the  taxpayer, for example, reporting, tax audit folder, case history, audit planning, and so on.
-  ![Image](/content/images/audit-head-lto%2021.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2021.png)
    ---
   #### **Select the Audit Planning :**
   1. Click on the **Add New Tax Audit** 
@@ -241,7 +241,7 @@
   3. Click on **Save**.
    
   
-  ![Image](/content/images/audit-head-lto%2022.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2022.png)
   
    ---
   #### **Select the Audit Planning :**
@@ -249,13 +249,13 @@
   2. Enter all the taxpayer parameters provided in the form. 
   3. Click on **Search Records** . 
   
-  ![Image](/content/images/audit-head-lto%2023.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2023.png)
    ---
   #### **Select the Audit Planning :**  
   1. Click on the **print** button to open the next page
   2. Click on the **audit introductory letter** to view the Tax Audit plan and the notice.
   
-  ![Image](/content/images/audit-head-lto%2024.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2024.png)
 ---
 
 * ### AUDIT SELECTION
@@ -264,7 +264,7 @@
   2. Fill out the information provided in the form and ensure that you click the drop-down option to Risk bank score.
   3. Click on **save**.
   
-  ![Image](/content/images/audit-head-lto%2025.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2025.png)
    
    ---
   1. Click the **Audit selection parameter** .
@@ -272,7 +272,7 @@
   3. Fill out all the requirements provided in the form.
   4. Click on **save**.
   
-  ![Image](/content/images/audit-head-lto%2026.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2026.png)
    
    
    ---
@@ -281,7 +281,7 @@
    2. Click on **search Corporate Tax Rate** .
    3. Enter any taxpayer parameter in the form.
    4. Click on **search records** .
-    ![Image](/content/images/audit-head-lto%2027.png)
+    ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2027.png)
    
    --- 
   #### **Add Audit selection profile :**
@@ -289,7 +289,7 @@
   2. Fill out all the requirements provided in the form.
   3. Click on **Save** .
   
-  ![Image](/content/images/audit-head-lto%2028.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2028.png)
    
           
           The officer can Add/ Edit  taxpayer select parameter
@@ -299,7 +299,7 @@
   2. Fill out all the requirements provided in the form
   3. Record Search
   
-  ![Image](/content/images/audit-head-lto%2029.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2029.png)
    
   
 ---
@@ -310,13 +310,13 @@
    2. Enter Taxpayer details: TIN/GH Card.
    3. Click on **8iew status** to open the next page.
   
-  ![Image](/content/images/audit-head-lto%2030.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2030.png)
    
 
   ---
   This portion shows the general view of the Taxpayer’s compliance status
   
-  ![Image](/content/images/audit-head-lto%2031.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2031.png)
    
   
       NB: NO….The taxpayer has outstanding liabilities to settle or pending lodgment to file off, or the compliant status has not yet been set up. Click on the View Detail to check what the issue is all about
@@ -331,7 +331,7 @@
   4. Click on **ICUMS Data** .
   5. This is preview for the ICUM.
   
-  ![Image](/content/images/audit-head-lto%2032.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2032.png)
    
 ---  
 * ### FILINGS REPORT
@@ -342,7 +342,7 @@
   3. Click on the date to select the start date and end date.
   4. Click **process print**.
   
-  ![Image](/content/images/audit-head-lto%2033.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2033.png)
    
 
   ---
@@ -350,7 +350,7 @@
   1. Click on **lodgement by the Year, Month, and day**
   2. Click on the drop-down Option to select the item below.
   
-  ![Image](/content/images/audit-head-lto%2035.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2035.png)
    
    
     ---
@@ -361,7 +361,7 @@
    2. Click on the drop-down to select the return month from, and return month to.
    3. Click on the **process print**.
   
-  ![Image](/content/images/audit-head-lto%2036.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2036.png)
    
    
      ---
@@ -371,7 +371,7 @@
     2. Click on the drop-down to select the return month from, and return month to.
     3. Click on the **process print**.
     
-  ![Image](/content/images/audit-head-lto%2049.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2049.png)
    
    
      ---
@@ -381,7 +381,7 @@
    2. Click on the drop-down to select the return month from, and return month to.
    3. Click on **process print** .
   
-  ![Image](/content/images/audit-head-lto%2048.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2048.png)
    
    
      ---
@@ -390,7 +390,7 @@
   2. Click on the date to select the start date and end date.
   3. Click on the **process print** .
   
-  ![Image](/content/images/audit-head-lto%2037.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2037.png)
    
   
     ---
@@ -400,7 +400,7 @@
    2. Click on the drop-down to select the return month from, and return month to. 
    3. Click on the **process print** .
   
-  ![Image](/content/images/audit-head-lto%2038.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2038.png)
    
    
     ---
@@ -409,7 +409,7 @@
     2. Click on the drop-down to select the returns type, and  return month.
     3. Click on the **process print** .
   
-  ![Image](/content/images/audit-head-lto%2039.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2039.png)
    
     
    ---
@@ -418,7 +418,7 @@
   2. Click on the drop-down option to select the return type, start date registered and the end date for the registered and lastly enter taxpayer details.
   3. Click on **process print** .
   
-  ![Image](/content/images/audit-head-lto%2040.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2040.png)
    
    
     ---
@@ -427,7 +427,7 @@
   2. select the start date and end date and then click on the drop-down option to select the return type, and taxpayer branch.
   3. Click on **process print** .
   
-  ![Image](/content/images/audit-head-lto%2041.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2041.png)
    
   
   
@@ -437,7 +437,7 @@
   2. Click on the drop-down option to select the return type, Return Month ,and Enter taxpayer detail .
   3. Click on **process print** .
   
-  ![Image](/content/images/audit-head-lto%2042.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2042.png)
    
   
     ---
@@ -446,7 +446,7 @@
     2. Select the start date and end date.
     3. Click on the **process print** .
   
-  ![Image](/content/images/audit-head-lto%2043.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2043.png)
    
     
     ---
@@ -456,7 +456,7 @@
    3. Click on the drop-down to select returns month.
    4. Click on **process print** .
   
-  ![Image](/content/images/audit-head-lto%2044.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2044.png)
    
     ---
   #### **PAYE processed schedules**
@@ -464,13 +464,13 @@
   2. Enter the taxpayer detail :TIN/ GH Card ,Enter Employee TIN, Name ,and click on the drop-down to select return month from – return month to.
   3. Click on **process print** .
  
-  ![Image](/content/images/audit-head-lto%2045.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2045.png)
    
     ---
    #### **My Complaints**
    Click **my complaint** will list record in the system.
   
-  ![Image](/content/images/audit-head-lto%2046.png)
+  ![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2046.png)
 ---
 * ### GITMIS ISSUES
    ---
@@ -481,7 +481,7 @@
   
   3. Click on **save** .
 
-![Image](/content/images/audit-head-lto%2047.png)
+![Image](./images/audit-head-lto/AUDIT%20HEAD%20LTO%2047.png)
   
 
    
